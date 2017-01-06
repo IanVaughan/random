@@ -1,0 +1,18 @@
+--------------------Configuration: test app1 - Java Virtual Machine Debug--------------------
+Begining build with project "C:\My Documents\java\test app1\test app1.dsp", at root.
+Active configuration is Java Virtual Machine Java Project (based on Java Virtual Machine Java Project)
+
+Project's tools are:
+			"Java Compiler" with flags "/g "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "C:\WINDOWS\TEMP\RSPB202.TMP" with contents <C:\My Documents\java\test app1\testapp1.java>
+Compiling...
+Microsoft (R) Visual J++ Compiler Version 1.01.7022
+Copyright (C) Microsoft Corp 1996. All rights reserved.
+
+
+
+
+test app1 - 0 error(s), 0 warning(s)

@@ -1,0 +1,31 @@
+Thread Synchronization
+
+Monitors to synchronize access to data
+Java uses monitors to synchronize any access to data. There is only a single key to enter a 
+monitor, and inside are protected resources. A thread must get a key to enter the monitor. 
+If many threads want to enter the monitor at the same time, they must each fight for the key. 
+Once the thread with the key has finished using the protected resources, it must hand the key
+back to Java runtime.
+ 
+In order to protect data within the monitor, the keyword synchronized is used. A class, method,
+or an object can be synchronized. 
+
+The bank account example illustrates the need for resource protection. It is possible that two 
+threads could deposit £1000 at the same time, which would result in disaster. The example shows 
+the processor time-slicing between the two threads, which in the end causes data corruption. 
+
+#1  trying to deposit 1000
+#1  getting balance...
+					#2  trying to deposit 1000
+					#2  getting balance...
+#1  balance got is 1000
+#1  setting balance...
+					#2  balance got is 1000
+					#2  setting balance...
+#1  new balance is to 2000
+					#2  new balance set to 2000
+***final balance is 2000
+
+The final balance should be 3000, but the second thread got the current balance before the first 
+thread set the new balance. The data has been corrupted !
+

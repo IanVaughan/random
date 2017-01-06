@@ -1,0 +1,3605 @@
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating ZipSrc.dfm
+updating RunwayTransitionEditorSrc.dfm
+updating RunwayEditorSrc.dfm
+updating MasterDataFormSrc.dfm
+updating MapObjectEditSrc.dfm
+updating MapLayerEditSrc.dfm
+updating MApcEditorSrc.dfm
+updating FixTransitonEditorSrc.dfm
+updating DeferredCommandForm.dfm
+updating DataPrepSrc.dfm
+updating BESTSrc.dfm
+updating BestManSrc.dfm
+updating ApproachEditorSrc.dfm
+updating AirwaySrc.dfm
+updating AirfieldEditorSrc.dfm
+updating DMsrc.dfm
+updating DFS2BestSrc.dfm
+updating VDFEditorSrc.dfm
+updating showDBData.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrepSrc.h
+updating ZipSrc.h
+updating RunwayEditorSrc.h
+updating PilotDLLData.h
+updating MasterDataFormSrc.h
+updating MapObjectEditSrc.h
+updating MapLayerEditSrc.h
+updating MApcEditorSrc.h
+updating DeferredCommandForm.h
+updating CFlightManager.h
+updating BESTSrc.h
+updating BestManSrc.h
+updating AtgThread.h
+updating ApproachEditorSrc.h
+updating AirwaySrc.h
+updating AirfieldEditorSrc.h
+updating DFS2BestSrc.h
+updating VDFEditorSrc.h
+updating showDBData.h
+updating VoiceRecEngine.h
+  Adding Speech.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrep.cpp
+updating ZipSrc.cpp
+updating ValidateSrc.cpp
+updating SuperDLL.cpp
+updating SIDEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RunwayEditorSrc.cpp
+updating RouteConversion.cpp
+updating RDMS.cpp
+updating PilotDLLData.cpp
+updating PilotDLL.cpp
+updating MasterDataFormSrc.cpp
+updating MapObjectEditSrc.cpp
+updating MapLayerEditSrc.cpp
+updating MApcEditorSrc.cpp
+updating InformationFormFile.cpp
+updating FixTransitonEditorSrc.cpp
+updating DeferredCommandForm.cpp
+updating DataPrepSrc.cpp
+updating CommandListSrc.cpp
+updating CFlightManager.cpp
+updating BESTSrc.cpp
+updating BestManSrc.cpp
+updating AtgThread.cpp
+updating AtgDLL.cpp
+updating ApproachEditorSrc.cpp
+updating AirwaySrc.cpp
+updating AirfieldEditorSrc.cpp
+updating AircraftListItem.cpp
+updating DFS2BestSrc.cpp
+updating VDFEditorSrc.cpp
+updating changeDS.cpp
+updating showDBData.cpp
+updating VoiceRecEngine.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating AtgDLL.bpr
+updating VoiceRec.bpr
+updating Zip file c:\projects\best\backup.zip
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating ApproachEditorSrc.dfm
+updating showDBData.dfm
+  Adding _MApcEditorSrc.dfm
+  Adding _STAREditorSrc.dfm
+  Adding _SIDEditorSrc.dfm
+  Adding BaseSidStarMapr.dfm
+  Adding __MApcEditorSrc.dfm
+  Adding __STAREditorSrc.dfm
+  Adding __SIDEditorSrc.dfm
+  Adding SidStarMaprDF.dfm
+  Adding BaseSidStarMaprDF.dfm
+  Adding BaseSidStarMaprDFSrc.dfm
+  Adding __DMsrc.dfm
+  Adding BaseSidStarMapcDFSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrepSrc.h
+updating STAREditorSrc.h
+updating SIDEditorSrc.h
+updating MApcEditorSrc.h
+updating ApproachEditorSrc.h
+updating showDBData.h
+  Adding Mapr.h
+  Adding SIDEditSrc.h
+  Adding _MApcEditorSrc.h
+  Adding _STAREditorSrc.h
+  Adding _SIDEditorSrc.h
+  Adding BaseSidStarMapr.h
+  Adding Sid.h
+  Adding Star.h
+  Adding STAREditSrc.h
+  Adding MApcEditSrc.h
+  Adding _SIDEditSrc.h
+  Adding _STAREditSrc.h
+  Adding _MApcEditSrc.h
+  Adding __MApcEditorSrc.h
+  Adding __STAREditorSrc.h
+  Adding __SIDEditorSrc.h
+  Adding SidStarMaprDF.h
+  Adding BaseSidStarMaprDF.h
+  Adding BaseSidStarMaprDFSrc.h
+  Adding __DMsrc.h
+  Adding BaseSidStarMapcDFSrc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrep.cpp
+updating TerminatorEditorSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating ProfileEditorSrc.cpp
+updating MasterDataFormSrc.cpp
+updating MApcEditorSrc.cpp
+updating FixTransitonEditorSrc.cpp
+updating DataPrepSrc.cpp
+updating ApproachEditorSrc.cpp
+updating showDBData.cpp
+  Adding _MApcEditorSrc.cpp
+  Adding _STAREditorSrc.cpp
+  Adding _SIDEditorSrc.cpp
+  Adding BaseSidStarMapr.cpp
+  Adding testBaseSidStarMapr.cpp
+  Adding Mapr.cpp
+  Adding Sid.cpp
+  Adding Star.cpp
+  Adding SIDEditSrc.cpp
+  Adding STAREditSrc.cpp
+  Adding MApcEditSrc.cpp
+  Adding _SIDEditSrc.cpp
+  Adding _STAREditSrc.cpp
+  Adding _MApcEditSrc.cpp
+  Adding __MApcEditorSrc.cpp
+  Adding __STAREditorSrc.cpp
+  Adding __SIDEditorSrc.cpp
+  Adding SidStarMaprDF.cpp
+  Adding BaseSidStarMapcDFSrc.cpp
+  Adding BaseSidStarMaprDFSrc.cpp
+  Adding __DMsrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrep.bpr
+  Adding testBaseSidStarMapr.bpr
+updating Zip file c:\projects\best\backup.zip
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating WinMsgFormSrc.dfm
+updating WeatherGroupSrc.dfm
+updating WeatherDataFormFile.dfm
+updating UserDisplaySrc.dfm
+updating SuperErrorFormFile.dfm
+updating SOBSrc.dfm
+updating ResultsPageSrc.dfm
+updating ReinstateAircraftFormFile.dfm
+updating RadarServiceSelectSrc.dfm
+updating RadarFormFile.dfm
+updating KillDialogSrc.dfm
+updating InformationFormFile.dfm
+updating FixEditorSrc.dfm
+updating ExerciseRunFormFile.dfm
+updating EventFormFile.dfm
+updating DFMainForm.dfm
+updating DeferredCommandForm.dfm
+updating ConfirmExitDialog.dfm
+updating ChangeRunwayFormFile.dfm
+updating CFLListSrc.dfm
+updating CallsignListFile.dfm
+updating AtgDLLSrc.dfm
+updating AirspaceEditorSrc.dfm
+updating SectorLoadSrc.dfm
+updating DFS2BestSrc.dfm
+updating showDBData.dfm
+updating BaseSidStarMapr.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating WinMsgFormSrc.h
+updating WeatherGroupSrc.h
+updating WeatherDataFormFile.h
+updating ValidateSrc.h
+updating UserDisplaySrc.h
+updating UserDisplay.h
+updating UserData.h
+updating SuperErrorFormFile.h
+updating SuperDLLData.h
+updating SuperDLL.h
+updating STAREditorSrc.h
+updating SOBSrc.h
+updating SIDEditorSrc.h
+updating RouteConversion.h
+updating ResultsPageSrc.h
+updating ReinstateAircraftFormFile.h
+updating RDMSData.h
+updating RDMS.h
+updating RadarServiceSelectSrc.h
+updating RadarFormFile.h
+updating PrimaryDisplay.h
+updating PilotDLLData.h
+updating PilotDLL.h
+updating MApcEditorSrc.h
+updating KillDialogSrc.h
+updating IniFileSrc.h
+updating InfoSysData.h
+updating InfoSys.h
+updating InformationFormFile.h
+updating FixEditorSrc.h
+updating ExerciseRunFormFile.h
+updating EventFormFile.h
+updating DFMainForm.h
+updating DeferredCommandForm.h
+updating CWeatherSrc.h
+updating CRangeSrc.h
+updating ConfirmExitDialog.h
+updating ConfigList.h
+updating CommandListSrc.h
+updating ChangeRunwayFormFile.h
+updating CFLListSrc.h
+updating CFlightManager.h
+updating CallsignListFile.h
+updating AtgThread.h
+updating AtgDLLSrc.h
+updating AtgDLL.h
+updating ATGData.h
+updating AirspaceEditorSrc.h
+updating SectorLoadSrc.h
+updating SLIMSrc.h
+updating OrthogonSrc.h
+updating VoiceRec.h
+updating DFS2BestSrc.h
+updating VoiceRecMessage.h
+updating BaseSidStarMapr.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrep.cpp
+updating WinMsgFormSrc.cpp
+updating WeatherGroupSrc.cpp
+updating WeatherDataFormFile.cpp
+updating ValidateSrc.cpp
+updating UserDisplaySrc.cpp
+updating UserDisplay.cpp
+updating UserData.cpp
+updating SuperErrorFormFile.cpp
+updating SuperDLLData.cpp
+updating SuperDLL.cpp
+updating STAREditorSrc.cpp
+updating SOBSrc.cpp
+updating SIDEditorSrc.cpp
+updating RouteConversion.cpp
+updating ResultsPageSrc.cpp
+updating ReinstateAircraftFormFile.cpp
+updating RDMSData.cpp
+updating RDMS.cpp
+updating RadarServiceSelectSrc.cpp
+updating RadarFormFile.cpp
+updating PrimaryDisplay.cpp
+updating PilotDLLData.cpp
+updating PilotDLL.cpp
+updating MApcEditorSrc.cpp
+updating KillDialogSrc.cpp
+updating IniFileSrc.cpp
+updating InfoSysData.cpp
+updating InfoSys.cpp
+updating InformationFormFile.cpp
+updating FixEditorSrc.cpp
+updating ExerciseRunFormFile.cpp
+updating EventFormFile.cpp
+updating DFMainForm.cpp
+updating DeferredCommandForm.cpp
+updating DataPrepSrc.cpp
+updating CWeatherSrc.cpp
+updating CRangeSrc.cpp
+updating ConfirmExitDialog.cpp
+updating ConfigList.cpp
+updating CommandListSrc.cpp
+updating ChangeRunwayFormFile.cpp
+updating CFLListSrc.cpp
+updating CFlightManager.cpp
+updating CFlightList.cpp
+updating CallsignListFile.cpp
+updating AtgThread.cpp
+updating ATGMessageOut.cpp
+updating ATGMessageHandler.cpp
+updating AtgDLLSrc.cpp
+updating AtgDLL.cpp
+updating ATGData.cpp
+updating AirspaceEditorSrc.cpp
+updating SectorLoadSrc.cpp
+updating SLIMSrc.CPP
+updating OrthogonSrc.cpp
+updating VoiceRec.cpp
+updating StripPrinterSrc.cpp
+updating DFS2BestSrc.cpp
+updating showDBData.cpp
+updating VoiceRecMessage.cpp
+updating _SIDEditorSrc.cpp
+updating BaseSidStarMapr.cpp
+updating __SIDEditorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating RDMS.bpr
+updating DataPrep.bpr
+updating Zip file c:\projects\best\backup.zip
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating SOBSrc.dfm
+updating RunwayTransitionEditorSrc.dfm
+updating RouteElementEditorSrc.dfm
+updating FixTransitonEditorSrc.dfm
+updating DFS2BestSrc.dfm
+updating showDBData.dfm
+updating BaseSidStarMapcDFSrc.dfm
+  Adding BaseSidStarMapc.dfm
+  Adding newRunwayTransitionEditorSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating UserDisplay.h
+updating SupervisorMessageOut.h
+updating StrUtils.h
+updating STAREditorSrc.h
+updating SOBSrc.h
+updating SIDEditorSrc.h
+updating RunwayTransitionEditorSrc.h
+updating PrimaryDisplay.h
+updating MApcEditorSrc.h
+updating FixTransitonEditorSrc.h
+updating DFS2BestSrc.h
+updating showDBData.h
+  Adding BaseSidStarMapc.h
+  Adding newRunwayTransitionEditorSrc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrep.cpp
+updating UserDisplay.cpp
+updating SupervisorMessageOut.cpp
+updating StrUtils.cpp
+updating STAREditorSrc.cpp
+updating SOBSrc.cpp
+updating SIDEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating PrimaryDisplay.cpp
+updating MApcEditorSrc.cpp
+updating FixTransitonEditorSrc.cpp
+updating DFS2BestSrc.cpp
+updating showDBData.cpp
+updating __STAREditorSrc.cpp
+updating __SIDEditorSrc.cpp
+  Adding BaseSidStarMapc.cpp
+  Adding newRunwayTransitionEditorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrep.bpr
+updating Zip file c:\projects\best\backup.zip
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating TerminatorEditorSrc.dfm
+updating SystemUpdateProgress.dfm
+updating SOBSrc.dfm
+updating RunwayTransitionEditorSrc.dfm
+updating RunFastSrc.dfm
+updating RouteElementEditorSrc.dfm
+updating MasterDataFormSrc.dfm
+updating LandingDialogFile.dfm
+updating InformationFormFile.dfm
+updating FixTransitonEditorSrc.dfm
+updating ExerciseRunFormFile.dfm
+updating DataPrepSrc.dfm
+updating ColourPasswordForm.dfm
+updating ColourLoadSrc.dfm
+updating ColourDialogSrc.dfm
+updating AloneFormSrc.dfm
+updating AliveFormSrc.dfm
+updating WhatLevelSrc.dfm
+updating EditPrinterSrc.dfm
+updating EditPrintersSrc.dfm
+updating NewStripFormatSrc.dfm
+updating PrinterDefaultSrc.dfm
+updating StripEditSrc.dfm
+updating StripFormatEditSrc.dfm
+updating StripFormatItemEditSrc.dfm
+updating StripFormatSelectSrc.dfm
+updating StripItemEditSrc.dfm
+updating changeDS.dfm
+updating showDBData.dfm
+updating BaseSidStarMapcDFSrc.dfm
+updating BaseSidStarMapc.dfm
+  Adding SplashBaseSidStarMapcSrc.dfm
+  Adding ConditionEditorSrc.dfm
+  Adding _RouteElementEditorSrc.dfm
+  Adding _TerminatorEditorSrc.dfm
+  Adding myTerminatorEditorSrc.dfm
+  Adding _ConditionEditorSrc.dfm
+  Adding NewRoute.dfm
+  Adding route1.dfm
+  Adding InfoDisplaySrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating TerminatorEditorSrc.h
+updating SystemUpdateProgress.h
+updating SuperDLL.h
+updating STAREditorSrc.h
+updating SOBSrc.h
+updating SIDEditorSrc.h
+updating RunwayTransitionEditorSrc.h
+updating RunFastSrc.h
+updating RouteElementEditorSrc.h
+updating RDMSData.h
+updating PublicMsgSrc.h
+updating PerformanceSrc.h
+updating MessageHandler.h
+updating MApcEditorSrc.h
+updating LandingDialogFile.h
+updating IniFileSrc.h
+updating InformationFormFile.h
+updating FixTransitonEditorSrc.h
+updating ExerciseRunFormFile.h
+updating ElapsedTimes.h
+updating CommandListSrc.h
+updating CommandDescriptions.h
+updating ColourPasswordForm.h
+updating ColourLoadSrc.h
+updating ColourDialogSrc.h
+updating CircuitSrc.h
+updating CFlightManager.h
+updating BestMsgSrc.h
+updating BestManSocketList.h
+updating AtgDLL.h
+updating ATGCalculator.h
+updating AloneFormSrc.h
+updating AliveFormSrc.h
+updating WhatLevelSrc.h
+updating EditPrinterSrc.h
+updating EditPrintersSrc.h
+updating NewStripFormatSrc.h
+updating PrinterDefaultSrc.h
+updating StripEditSrc.h
+updating StripFormatEditSrc.h
+updating StripFormatItemEditSrc.h
+updating StripFormatSelectSrc.h
+updating StripItemEditSrc.h
+updating changeDS.h
+updating showDBData.h
+updating BaseSidStarMapcDFSrc.h
+updating BaseSidStarMapc.h
+  Adding SplashBaseSidStarMapcSrc.h
+  Adding _RouteElementEditorSrc.h
+  Adding ConditionEditorSrc.h
+  Adding NewRoute.h
+  Adding _TerminatorEditorSrc.h
+  Adding myTerminatorEditorSrc.h
+  Adding _ConditionEditorSrc.h
+  Adding route1.h
+  Adding InfoDisplaySrc.h
+  Adding ATGInfoDisplaySrc.h
+  Adding InfoDisplay.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrep.cpp
+updating TerminatorEditorSrc.cpp
+updating SystemUpdateProgress.cpp
+updating SuperDLL.cpp
+updating STAREditorSrc.cpp
+updating SOBSrc.cpp
+updating SOB.cpp
+updating SIDEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RunFastSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating RDMSData.cpp
+updating PublicMsgSrc.cpp
+updating PerformanceSrc.cpp
+updating MessageHandler.cpp
+updating MApcEditorSrc.cpp
+updating LandingDialogFile.cpp
+updating IniFileSrc.cpp
+updating InformationFormFile.cpp
+updating FixTransitonEditorSrc.cpp
+updating ExerciseRunFormFile.cpp
+updating ElapsedTimes.cpp
+updating DataPrepSrc.cpp
+updating CommandListSrc.cpp
+updating CommandDescriptions.cpp
+updating ColourPasswordForm.cpp
+updating ColourLoadSrc.cpp
+updating ColourDialogSrc.cpp
+updating CircuitSrc.cpp
+updating CFlightManager.cpp
+updating BestMsgSrc.cpp
+updating BestManSocketList.cpp
+updating AtgDLL.cpp
+updating ATGCalculator.cpp
+updating AloneFormSrc.cpp
+updating AliveFormSrc.cpp
+updating WhatLevelSrc.cpp
+updating EditPrintersSrc.cpp
+updating EditPrinterSrc.cpp
+updating NewStripFormatSrc.cpp
+updating PrinterDefaultSrc.cpp
+updating StripEditSrc.cpp
+updating StripFormatEditSrc.cpp
+updating StripFormatItemEditSrc.cpp
+updating StripFormatSelectSrc.cpp
+updating StripItemEditSrc.cpp
+updating changeDS.cpp
+updating showDBData.cpp
+updating BaseSidStarMapcDFSrc.cpp
+updating BaseSidStarMapc.cpp
+  Adding SplashBaseSidStarMapcSrc.cpp
+  Adding _RouteElementEditorSrc.cpp
+  Adding ConditionEditorSrc.cpp
+  Adding _TerminatorEditorSrc.cpp
+  Adding myTerminatorEditorSrc.cpp
+  Adding NewRoute.cpp
+  Adding _ConditionEditorSrc.cpp
+  Adding route1.cpp
+  Adding ATGInfoDisplaySrc.cpp
+  Adding InfoDisplay.cpp
+  Adding InfoDisplaySrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating SOB.bpr
+updating DataPrep.bpr
+updating AtgDLL.bpr
+  Adding NewRoute.bpr
+  Adding InfoDisplay.bpr
+updating Zip file c:\projects\best\backup.zip
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating RouteElementEditorSrc.dfm
+updating BaseSidStarMapc.dfm
+updating SplashBaseSidStarMapcSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating RouteElementEditorSrc.h
+updating BaseSidStarMapc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating SIDEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating BaseSidStarMapcDFSrc.cpp
+updating BaseSidStarMapc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating TerminatorEditorSrc.dfm
+updating RunwayTransitionEditorSrc.dfm
+updating RouteElementEditorSrc.dfm
+updating MasterDataFormSrc.dfm
+updating changeDS.dfm
+updating BaseSidStarMapcDFSrc.dfm
+updating BaseSidStarMapc.dfm
+updating SplashBaseSidStarMapcSrc.dfm
+updating ConditionEditorSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating TerminatorEditorSrc.h
+updating RunwayTransitionEditorSrc.h
+updating RouteElementEditorSrc.h
+updating BaseSidStarMapc.h
+updating ConditionEditorSrc.h
+updating _ConditionEditorSrc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating TerminatorEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating BaseSidStarMapc.cpp
+updating ConditionEditorSrc.cpp
+updating _ConditionEditorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating TerminatorEditorSrc.dfm
+updating RouteElementEditorSrc.dfm
+updating FPGroupEditSrc.dfm
+updating ExtractionSrc.dfm
+updating ExerciseEditSrc.dfm
+updating showDBData.dfm
+updating BaseSidStarMapc.dfm
+updating SplashBaseSidStarMapcSrc.dfm
+updating ConditionEditorSrc.dfm
+updating _RouteElementEditorSrc.dfm
+updating InfoDisplaySrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating TerminatorEditorSrc.h
+updating RouteElementEditorSrc.h
+updating FPGroupEditSrc.h
+updating FixTransitonEditorSrc.h
+updating ExerciseEditSrc.h
+updating AirspaceEditorSrc.h
+updating showDBData.h
+updating BaseSidStarMapc.h
+updating SplashBaseSidStarMapcSrc.h
+updating _RouteElementEditorSrc.h
+updating ConditionEditorSrc.h
+updating InfoDisplaySrc.h
+updating ATGInfoDisplaySrc.h
+updating InfoDisplay.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrep.cpp
+updating ValidateSrc.cpp
+updating TerminatorEditorSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating PerformancePop.cpp
+updating MApcEditorSrc.cpp
+updating FPGroupEditSrc.cpp
+updating FixTransitonEditorSrc.cpp
+updating ExtractionSrc.cpp
+updating showDBData.cpp
+updating BaseSidStarMapc.cpp
+updating _RouteElementEditorSrc.cpp
+updating ConditionEditorSrc.cpp
+updating ATGInfoDisplaySrc.cpp
+updating InfoDisplay.cpp
+updating InfoDisplaySrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrep.bpr
+updating Zip file c:\projects\best\backup.zip
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating TerminatorEditorSrc.dfm
+updating SectorEditSrc.dfm
+updating RunwayEditorSrc.dfm
+updating RouteElementEditorSrc.dfm
+updating RadarEditorSrc.dfm
+updating MasterDataFormSrc.dfm
+updating FPGroupEditSrc.dfm
+updating ExtractionSrc.dfm
+updating ExerciseEditSrc.dfm
+updating DataPrepSrc.dfm
+updating ApproachEditorSrc.dfm
+updating AirspaceEditorSrc.dfm
+updating AirfieldEditorSrc.dfm
+updating ACTypeSrc.dfm
+updating TaskEditSrc.dfm
+updating BaseSidStarMapcDFSrc.dfm
+updating BaseSidStarMapc.dfm
+updating SplashBaseSidStarMapcSrc.dfm
+updating ConditionEditorSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrepSrc.h
+updating ValidateSrc.h
+updating SIDEditorSrc.h
+updating SectorEditSrc.h
+updating RunwayTransitionEditorSrc.h
+updating RunwayEditorSrc.h
+updating RouteElementEditorSrc.h
+updating RadarEditorSrc.h
+updating PerformancePop.h
+updating FPGroupEditSrc.h
+updating ExtractionSrc.h
+updating ExerciseEditSrc.h
+updating ApproachEditorSrc.h
+updating AirspaceEditorSrc.h
+updating AirfieldEditorSrc.h
+updating ACTypeSrc.h
+updating TaskEditSrc.h
+updating BaseSidStarMapcDFSrc.h
+updating BaseSidStarMapc.h
+updating SplashBaseSidStarMapcSrc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrep.cpp
+updating ValidateSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating SectorEditSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RunwayEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating RadarEditorSrc.cpp
+updating PerformancePop.cpp
+updating MApcEditorSrc.cpp
+updating FPGroupEditSrc.cpp
+updating FixTransitonEditorSrc.cpp
+updating ExtractionSrc.cpp
+updating ExerciseEditSrc.cpp
+updating DataPrepSrc.cpp
+updating ApproachEditorSrc.cpp
+updating AirspaceEditorSrc.cpp
+updating AirfieldEditorSrc.cpp
+updating ACTypeSrc.cpp
+updating TaskEditSrc.cpp
+updating BaseSidStarMapc.cpp
+updating SplashBaseSidStarMapcSrc.cpp
+updating ConditionEditorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+updating DataPrep.bpr
+updating Zip file c:\projects\best\backup.zip
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating TerminatorEditorSrc.dfm
+updating RouteElementEditorSrc.dfm
+updating FixEditorSrc.dfm
+updating BaseSidStarMapcDFSrc.dfm
+updating BaseSidStarMapc.dfm
+updating ConditionEditorSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating TerminatorEditorSrc.h
+updating RouteElementEditorSrc.h
+updating FixEditorSrc.h
+updating BaseSidStarMapcDFSrc.h
+updating BaseSidStarMapc.h
+updating ConditionEditorSrc.h
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating TerminatorEditorSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating MapPop.cpp
+updating MApcEditorSrc.cpp
+updating FixEditorSrc.cpp
+updating DataPrepSrc.cpp
+updating DFS2Best.cpp
+updating DFS2BestSrc.cpp
+updating BaseSidStarMapcDFSrc.cpp
+updating BaseSidStarMapc.cpp
+updating ConditionEditorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating TerminatorEditorSrc.dfm
+updating RunwayTransitionEditorSrc.dfm
+updating RouteElementEditorSrc.dfm
+updating FixTransitonEditorSrc.dfm
+updating BaseSidStarMapcDFSrc.dfm
+updating BaseSidStarMapc.dfm
+updating SplashBaseSidStarMapcSrc.dfm
+updating ConditionEditorSrc.dfm
+  Adding TestFormSrc.dfm
+  Adding TestFormChangeDS.dfm
+  Adding TestForm.dfm
+  Adding TestFormChangeDSSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating TerminatorEditorSrc.h
+updating STAREditorSrc.h
+updating SIDEditorSrc.h
+updating RunwayTransitionEditorSrc.h
+updating RouteElementEditorSrc.h
+updating MApcEditorSrc.h
+updating FixTransitonEditorSrc.h
+updating BaseSidStarMapcDFSrc.h
+updating BaseSidStarMapc.h
+updating SplashBaseSidStarMapcSrc.h
+updating ConditionEditorSrc.h
+  Adding TestFormSrc.h
+  Adding TestFormChangeDS.h
+  Adding TestForm.h
+  Adding TestFormChangeDSSrc.h
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating DataPrep.cpp
+updating TerminatorEditorSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating MasterDataFormSrc.cpp
+updating MApcEditorSrc.cpp
+updating IdNameList.cpp
+updating FixTransitonEditorSrc.cpp
+updating DataPrepSrc.cpp
+updating BaseSidStarMapcDFSrc.cpp
+updating BaseSidStarMapc.cpp
+updating SplashBaseSidStarMapcSrc.cpp
+updating ConditionEditorSrc.cpp
+  Adding TestFormSrc.cpp
+  Adding TestFormChangeDS.cpp
+  Adding TestForm.cpp
+  Adding TestFormChangeDSSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating DataPrep.bpr
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating FixTransitonEditorSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating TerminatorEditorSrc.h
+updating RunwayTransitionEditorSrc.h
+updating RouteElementEditorSrc.h
+updating FixTransitonEditorSrc.h
+updating BaseSidStarMapcDFSrc.h
+updating BaseSidStarMapc.h
+updating SplashBaseSidStarMapcSrc.h
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating TerminatorEditorSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating MApcEditorSrc.cpp
+updating FixTransitonEditorSrc.cpp
+updating BaseSidStarMapcDFSrc.cpp
+updating BaseSidStarMapc.cpp
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+Warning: c:\projects\best\backup.zip not found or empty
+  Adding ZipSrc.dfm
+  Adding WinMsgFormSrc.dfm
+  Adding WeatherGroupSrc.dfm
+  Adding WeatherDataFormFile.dfm
+  Adding WeatherAreaSrc.dfm
+  Adding UserPanelSrc.dfm
+  Adding UserDisplaySrc.dfm
+  Adding TypeNewNodeSrc.dfm
+  Adding TrailLengthSelectSrc.dfm
+  Adding TrafficHighlightSelectSrc.dfm
+  Adding TimerForm.dfm
+  Adding TextSizeSelectSrc.dfm
+  Adding TextOutPutSrc.dfm
+  Adding TestTransitionLevelSrc.dfm
+  Adding TestSitWinListMain.dfm
+  Adding TestRealATGSrc.dfm
+  Adding TestRDMSSrc.dfm
+  Adding TestRangeSrc.dfm
+  Adding TestFormFile.dfm
+  Adding TestATGSrc.dfm
+  Adding TestAllSrc.dfm
+  Adding TerminatorEditorSrc.dfm
+  Adding TakeOffDialogFile.dfm
+  Adding TagFormFile.dfm
+  Adding SystemUpdateProgress.dfm
+  Adding SupervisorSrc.dfm
+  Adding SupervisorFormFile.dfm
+  Adding SuperErrorFormFile.dfm
+  Adding StartTimeFormFile.dfm
+  Adding STAREditorSrc.dfm
+  Adding SSRDialogFile.dfm
+  Adding SpeedDialogFile.dfm
+  Adding SpeedBarFormFile.dfm
+  Adding SOBSrc.dfm
+  Adding SituationWindowSrc.dfm
+  Adding SIDEditorSrc.dfm
+  Adding SetupFormSrc.dfm
+  Adding SelectNodeSrc.dfm
+  Adding SectorEditSrc.dfm
+  Adding ScriptEditorSrc.dfm
+  Adding SaveDetailsFormFile.dfm
+  Adding RwaySelectFormFile.dfm
+  Adding RunwayTransitionEditorSrc.dfm
+  Adding RunwaySrc.dfm
+  Adding RunwayEditorSrc.dfm
+  Adding RunwayApproachDialogFile.dfm
+  Adding RunSuperDLLFile.dfm
+  Adding RunFastSrc.dfm
+  Adding RouteElementEditorSrc.dfm
+  Adding RouteDialogFile.dfm
+  Adding ResultsPageSrc.dfm
+  Adding ResetKeySrc.dfm
+  Adding ReportSelectDialog.dfm
+  Adding ReportDialogFile.dfm
+  Adding ReplayListSrc.dfm
+  Adding RepairAircraftFormSrc.dfm
+  Adding RemoveAircraftFormFile.dfm
+  Adding ReloadCommandsSrc.dfm
+  Adding ReinstateAircraftFormFile.dfm
+  Adding RangeRingSelect.dfm
+  Adding RadarServiceSelectSrc.dfm
+  Adding RadarFormFile.dfm
+  Adding RadarEditorSrc.dfm
+  Adding QuestionOutputSrc.dfm
+  Adding QuestionInputSrc.dfm
+  Adding ProfileEditorSrc.dfm
+  Adding PredictVectorSelectSrc.dfm
+  Adding PositionTypeChoiceSrc.dfm
+  Adding PilotSrc.dfm
+  Adding PilotMMISrc.dfm
+  Adding PilotMMIErrorForm.dfm
+  Adding PasswordSrc.dfm
+  Adding PasswordError.dfm
+  Adding OwnNavDialogFile.dfm
+  Adding NotLicenced.dfm
+  Adding NodeManagerSrc.dfm
+  Adding NoContact.dfm
+  Adding NercConvert.dfm
+  Adding NavigationDialogFile.dfm
+  Adding MasterDataFormSrc.dfm
+  Adding MapObjectEditSrc.dfm
+  Adding MapLayerSelectSrc.dfm
+  Adding MapLayerEditSrc.dfm
+  Adding MApcEditorSrc.dfm
+  Adding LevelDialogFile.dfm
+  Adding LandingDialogFile.dfm
+  Adding LabelDirectionSelectSrc.dfm
+  Adding KillDialogSrc.dfm
+  Adding JumpToTimeSrc.dfm
+  Adding JumpFormFile.dfm
+  Adding InputTagSrc.dfm
+  Adding InputNameSrc.dfm
+  Adding InformationFormFile.dfm
+  Adding ImportReportSrc.dfm
+  Adding ImportQueryFormSrc.dfm
+  Adding HoldingDialogFile.dfm
+  Adding HoldEditorSrc.dfm
+  Adding HeightFilterSrc.dfm
+  Adding GetNetNameSrc.dfm
+  Adding FrequencyDialogFile.dfm
+  Adding FPGroupEditSrc.dfm
+  Adding FPEditSrc.dfm
+  Adding FlightPlanFormFile.dfm
+  Adding FixTransitonEditorSrc.dfm
+  Adding FixSrc.dfm
+  Adding FixEditorSrc.dfm
+  Adding ExtractionSrc.dfm
+  Adding ExtractFromDBFile.dfm
+  Adding ExerciseRunFormFile.dfm
+  Adding ExercisePlaybackFormFile.dfm
+  Adding ExerciseListSrc.dfm
+  Adding ExerciseEditSrc.dfm
+  Adding EventFormFile.dfm
+  Adding EmergencyDialogSrc.dfm
+  Adding EditPasswordSrc.dfm
+  Adding DFWeatherFile.dfm
+  Adding DFMainForm.dfm
+  Adding DemoSplashSrc.dfm
+  Adding DeleteReplaceSrc.dfm
+  Adding DeferredCommandForm.dfm
+  Adding DataPrepSrc.dfm
+  Adding DataPrepSplashSrc.dfm
+  Adding DataPrepPasswordSrc.dfm
+  Adding DataPopMain.dfm
+  Adding CreatePasswordFileSrc.dfm
+  Adding ConvertData.dfm
+  Adding ControllerSrc.dfm
+  Adding ConfirmExitDialog.dfm
+  Adding ConfigListSrc.dfm
+  Adding ConfigFormSrc.dfm
+  Adding ColourTestSrc.dfm
+  Adding ColourPasswordForm.dfm
+  Adding ColourLoadSrc.dfm
+  Adding ColourDialogSrc.dfm
+  Adding ChangeRunwayFormFile.dfm
+  Adding CFLListSrc.dfm
+  Adding CallsignListFile.dfm
+  Adding CallsignFormFile.dfm
+  Adding BESTSrc.dfm
+  Adding BestManSrc.dfm
+  Adding BestManMessage.dfm
+  Adding BestKey.dfm
+  Adding AtTimeFormFile.dfm
+  Adding AtSelectDialogSrc.dfm
+  Adding AtLevelFormFile.dfm
+  Adding AtHeadingFormFile.dfm
+  Adding AtgDLLSrc.dfm
+  Adding AtFixFormFile.dfm
+  Adding AreaDataFrm.dfm
+  Adding ApproachEditorSrc.dfm
+  Adding BaseSidStarMapc.dfm
+  Adding AirwaySrc.dfm
+  Adding AirspaceSelectFile.dfm
+  Adding AirspaceListSrc.dfm
+  Adding AirspaceEditorSrc.dfm
+  Adding AirspaceAssociateSrc.dfm
+  Adding AirfieldEditorSrc.dfm
+  Adding ACTypeSrc.dfm
+  Adding AliveFormSrc.dfm
+  Adding WelcomeSrc.dfm
+  Adding DMsrc.dfm
+  Adding SectorLoadSrc.dfm
+  Adding ConditionEditorSrc.dfm
+  Adding BaseSidStarMApcDFSrc.dfm
+  Adding ErrorDialog.dfm
+  Adding DataPrepAboutBoxSrc.dfm
+  Adding BestFileUpdateSrc.dfm
+  Adding FirstSplashSrc.dfm
+  Adding AirspaceDelete.dfm
+  Adding SplashBaseSidStarMapcSrc.dfm
+  Adding BestRestoreSrc.dfm
+  Adding InstallSrc.dfm
+  Adding Catc2BestSrc.dfm
+  Adding WhatLevelSrc.dfm
+  Adding ErrorDetailsSrc.dfm
+  Adding wxdataform.dfm
+  Adding VoiceRecSrc.dfm
+  Adding VoiceRecControlSrc.dfm
+  Adding Bailbrook2BestSrc.dfm
+  Adding BestListSrc.dfm
+  Adding TaskEditSrc.dfm
+  Adding ScriptItemSrc.dfm
+  Adding UserDetailsSrc.dfm
+  Adding DFS2BestSrc.dfm
+  Adding EditPrinterSrc.dfm
+  Adding EditPrintersSrc.dfm
+  Adding NewStripFormatSrc.dfm
+  Adding PrinterDefaultSrc.dfm
+  Adding PrintStripFileSrc.dfm
+  Adding StripProgressSrc.dfm
+  Adding StripEditSrc.dfm
+  Adding StripFormatEditSrc.dfm
+  Adding StripFormatItemEditSrc.dfm
+  Adding StripFormatSelectSrc.dfm
+  Adding StripItemEditSrc.dfm
+  Adding TestFormSrc.dfm
+  Adding TestFormChangeDS.dfm
+  Adding VDFEditorSrc.dfm
+  Adding changeAirspaceSplashSrc.dfm
+  Adding VoiceEditorEdit.dfm
+  Adding VoiceEditor.dfm
+  Adding VoiceRecExitDialog.dfm
+  Adding VoiceRecDebug.dfm
+  Adding MAAS2BestSrc.dfm
+  Adding Swiss2BestSrc.dfm
+  Adding NewRoute.dfm
+  Adding route1.dfm
+  Adding InfoDisplaySrc.dfm
+  Adding TestForm.dfm
+  Adding TestFormChangeDSSrc.dfm
+creating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+  Adding DataPrepSrc.h
+  Adding ZipSrc.h
+  Adding WinMsgFormSrc.h
+  Adding WeatherPop.h
+  Adding WeatherGroupSrc.h
+  Adding WeatherDataFormFile.h
+  Adding WeatherAreaSrc.h
+  Adding ValidateSrc.h
+  Adding UserPanelSrc.h
+  Adding UserMessageHandler.h
+  Adding UserDisplaySrc.h
+  Adding UserDisplay.h
+  Adding UserData.h
+  Adding UserAircraftSrc.h
+  Adding UDPSock.h
+  Adding TypeNewNodeSrc.h
+  Adding typedef.h
+  Adding TransitionLevel.h
+  Adding TrailListSrc.h
+  Adding TrailLengthSelectSrc.h
+  Adding TrafficHighlightSelectSrc.h
+  Adding TimeUtil.h
+  Adding TimerForm.h
+  Adding TextSizeSelectSrc.h
+  Adding TextOutputUtils.h
+  Adding TextOutPutSrc.h
+  Adding TestTransitionLevelSrc.h
+  Adding TestSitWinListMain.h
+  Adding TestRealATGSrc.h
+  Adding TestRDMSSrc.h
+  Adding TestRangeSrc.h
+  Adding TestFormFile.h
+  Adding TestATGSrc.h
+  Adding TestAllSrc.h
+  Adding TerminatorEditorSrc.h
+  Adding TargetListSrc.h
+  Adding TakeOffDialogFile.h
+  Adding TagFormFile.h
+  Adding SystemUpdateProgress.h
+  Adding SystemConstants.h
+  Adding SupervisorSrc.h
+  Adding SupervisorMessageOut.h
+  Adding SupervisorFormFile.h
+  Adding SuperErrorFormFile.h
+  Adding SuperDLLData.h
+  Adding SuperDLL.h
+  Adding stereo.h
+  Adding StartTimeFormFile.h
+  Adding STAREditorSrc.h
+  Adding SSRDialogFile.h
+  Adding SpeedSrc.h
+  Adding SpeedDialogFile.h
+  Adding SpeedBarFormFile.h
+  Adding SOBSrc.h
+  Adding SituationWindowSrc.h
+  Adding SituationWindowListSrc.h
+  Adding SituationWindowDraw.h
+  Adding SimEngine.h
+  Adding SIDEditorSrc.h
+  Adding SetupFormSrc.h
+  Adding SelectNodeSrc.h
+  Adding SectorEditSrc.h
+  Adding ScriptUtils.h
+  Adding ScriptSrc.h
+  Adding ScriptPop.h
+  Adding ScriptEditorSrc.h
+  Adding ScreenCoordinates.h
+  Adding SaveDetailsFormFile.h
+  Adding RwaySelectFormFile.h
+  Adding RunwayTransitionEditorSrc.h
+  Adding RunwaySrc.h
+  Adding RunwayEditorSrc.h
+  Adding RunwayApproachDialogFile.h
+  Adding RunSuperDLLFile.h
+  Adding RunFastSrc.h
+  Adding RTPromptList.h
+  Adding RouteExtrapolationSrc.h
+  Adding RouteElementEditorSrc.h
+  Adding RouteDialogFile.h
+  Adding RouteConversion.h
+  Adding ResultsPageSrc.h
+  Adding ResetKeySrc.h
+  Adding ReportSelectDialog.h
+  Adding ReportDialogFile.h
+  Adding ReplayListSrc.h
+  Adding RepairAircraftFormSrc.h
+  Adding RemoveAircraftFormFile.h
+  Adding ReloadCommandsSrc.h
+  Adding ReinstateAircraftFormFile.h
+  Adding RecordTypes.h
+  Adding RDMSTypes.h
+  Adding RDMSModes.h
+  Adding RDMSData.h
+  Adding RDMS.h
+  Adding RangesSrc.h
+  Adding RangeRingSelect.h
+  Adding RadarSrc.h
+  Adding RadarServiceSelectSrc.h
+  Adding RadarFormFile.h
+  Adding RadarEditorSrc.h
+  Adding QuestionOutputSrc.h
+  Adding QuestionInputSrc.h
+  Adding PublicMsgSrc.h
+  Adding ProjectionSrc.h
+  Adding ProfileEditorSrc.h
+  Adding PrimaryDisplay.h
+  Adding PredictVectorSelectSrc.h
+  Adding PositionTypes.h
+  Adding PositionTypeChoiceSrc.h
+  Adding PositionSrc.h
+  Adding PilotSrc.h
+  Adding PilotMMISrc.h
+  Adding PilotMMIErrorForm.h
+  Adding PilotMessageOut.h
+  Adding PilotDLLDummyData.h
+  Adding PilotDLLData.h
+  Adding PilotDLL.h
+  Adding PerformanceSrc.h
+  Adding PerformancePop.h
+  Adding PasswordSrc.h
+  Adding PasswordError.h
+  Adding OwnNavDialogFile.h
+  Adding NotLicenced.h
+  Adding NodeManagerSrc.h
+  Adding NoContact.h
+  Adding NercConvert.h
+  Adding NavigationDialogFile.h
+  Adding MessageQueue.h
+  Adding MessageHandler.h
+  Adding MasterDataFormSrc.h
+  Adding Mapr.h
+  Adding MapPop.h
+  Adding MapObjectEditSrc.h
+  Adding MapListSrc.h
+  Adding MapLayerSrc.h
+  Adding MapLayerSelectSrc.h
+  Adding MapLayerEditSrc.h
+  Adding MapFileLoader.h
+  Adding MApcEditorSrc.h
+  Adding LocalConfigSrc.h
+  Adding LoadErrorSrc.h
+  Adding LevelDialogFile.h
+  Adding LandingDialogFile.h
+  Adding LabelFields.h
+  Adding LabelDirectionSelectSrc.h
+  Adding KillDialogSrc.h
+  Adding JumpToTimeSrc.h
+  Adding JumpFormFile.h
+  Adding InputTagSrc.h
+  Adding InputNameSrc.h
+  Adding InitialisationMsg.h
+  Adding InfoSysData.h
+  Adding InfoSys.h
+  Adding InformationFormFile.h
+  Adding ImportReportSrc.h
+  Adding ImportQueryFormSrc.h
+  Adding IdNameList.h
+  Adding HoldingDialogFile.h
+  Adding HoldEditorSrc.h
+  Adding HeightFilterSrc.h
+  Adding GetNetNameSrc.h
+  Adding geometry.h
+  Adding geodesic.h
+  Adding FrequencyDialogFile.h
+  Adding FPGroupEditSrc.h
+  Adding FPEditSrc.h
+  Adding FlightPlanFormFile.h
+  Adding FixTransitonEditorSrc.h
+  Adding FixSrc.h
+  Adding FixListItem.h
+  Adding FixList.h
+  Adding FixEditorSrc.h
+  Adding ExtractLatLong.h
+  Adding ExtractionSrc.h
+  Adding ExtractFromDBFile.h
+  Adding ExerciseRunFormFile.h
+  Adding ExercisePop.h
+  Adding ExercisePlaybackFormFile.h
+  Adding ExerciseListSrc.h
+  Adding ExerciseEditSrc.h
+  Adding EventFormFile.h
+  Adding ERBMSrc.h
+  Adding EmergencyDialogSrc.h
+  Adding ElapsedTimes.h
+  Adding EditPasswordSrc.h
+  Adding earthparams.h
+  Adding DisplaySrc.h
+  Adding DFWeatherFile.h
+  Adding DFMainForm.h
+  Adding DemoSplashSrc.h
+  Adding DeleteReplaceSrc.h
+  Adding DeferredCommandListSrc.h
+  Adding DeferredCommandForm.h
+  Adding DataPrepSplashSrc.h
+  Adding IniFileSrc.h
+  Adding DataPrepPasswordSrc.h
+  Adding DataPopMain.h
+  Adding DataLoader.h
+  Adding DataExtract.h
+  Adding CWeatherSrc.h
+  Adding CSpeedSrcOld.h
+  Adding CSpeedSrc.h
+  Adding CSidStar.h
+  Adding CSectorSrc.h
+  Adding Crypto.h
+  Adding CRunwaySrc.h
+  Adding CRouteLegSrc.h
+  Adding CRouteLeg_TerminatorSrc.h
+  Adding CRouteLeg_ConstraintSrc.h
+  Adding CRouteData.h
+  Adding CreatePasswordFileSrc.h
+  Adding crc.h
+  Adding CRangeSrc.h
+  Adding CRadarList.h
+  Adding ConvertData.h
+  Adding ControllerSrc.h
+  Adding ConfirmExitDialog.h
+  Adding SplashBaseSidStarMapcSrc.h
+  Adding ConfigListSrc.h
+  Adding ConfigList.h
+  Adding ConfigFormSrc.h
+  Adding CommandListSrc.h
+  Adding CommandDescriptions.h
+  Adding ColourTestSrc.h
+  Adding ColourPasswordForm.h
+  Adding ColourLoadSrc.h
+  Adding ColourDialogSrc.h
+  Adding CMissedAPCSrc.h
+  Adding CLevelSrc.h
+  Adding CircuitSrc.h
+  Adding ChangeRunwayFormFile.h
+  Adding CFLListSrc.h
+  Adding CFlightPlanSrc.h
+  Adding CFlightManager.h
+  Adding CFlightList.h
+  Adding CFixSrc.h
+  Adding CExerciseSrc.h
+  Adding CApproachSrc.h
+  Adding CallsignListFile.h
+  Adding CallsignFormFile.h
+  Adding CAirwaySrc.h
+  Adding CAirspace.h
+  Adding CAirportSrc.h
+  Adding CAcTypeSrc.h
+  Adding BESTSrc.h
+  Adding StrUtils.h
+  Adding BestManSrc.h
+  Adding BestManSocketList.h
+  Adding BestManMessage.h
+  Adding BestKey.h
+  Adding AtTimeFormFile.h
+  Adding AtSelectDialogSrc.h
+  Adding AtLevelFormFile.h
+  Adding AtHeadingFormFile.h
+  Adding AtgThread.h
+  Adding ATGMessageOut.h
+  Adding ATGMessageHandler.h
+  Adding AtgDLLSrc.h
+  Adding AtgDLL.h
+  Adding ATGData.h
+  Adding ATGCalculator.h
+  Adding ATGAircraftListSrc.h
+  Adding AtFixFormFile.h
+  Adding AreaDataFrm.h
+  Adding ApproachEditorSrc.h
+  Adding AirwaySrc.h
+  Adding AirspaceSelectFile.h
+  Adding AirspacePop.h
+  Adding AirspaceListSrc.h
+  Adding AirspaceEditorSrc.h
+  Adding AirspaceAssociateSrc.h
+  Adding AirportListSrc.h
+  Adding AirfieldEditorSrc.h
+  Adding AircraftUpdateMsg.h
+  Adding AircraftListSrc.h
+  Adding AircraftListItem.h
+  Adding AircraftList.h
+  Adding ACTypeSrc.h
+  Adding ACTypeArraySrc.h
+  Adding BaseSidStarMapc.h
+  Adding AliveFormSrc.h
+  Adding WelcomeSrc.h
+  Adding PasswordUtils.h
+  Adding BestFileSrc.h
+  Adding Speech.h
+  Adding DMsrc.h
+  Adding ConditionEditorSrc.h
+  Adding FDPSectorSrc.h
+  Adding FixFlowSrc.h
+  Adding SectorCountSrc.h
+  Adding SectorLoadSrc.h
+  Adding SLIMSrc.h
+  Adding BaseSidStarMApcDFSrc.h
+  Adding ErrorDialog.h
+  Adding DataPrepAboutBoxSrc.h
+  Adding BestFileUpdateSrc.h
+  Adding FirstSplashSrc.h
+  Adding AirspaceDelete.h
+  Adding BestRestoreSrc.h
+  Adding InstallSrc.h
+  Adding BestMsgSrc.h
+  Adding CryptoData.h
+  Adding TestFormSrc.h
+  Adding Catc2BestSrc.h
+  Adding WhatLevelSrc.h
+  Adding wxdataform.h
+  Adding FrSrc.h
+  Adding OrthogonSrc.h
+  Adding ArchiveReplaySrc.h
+  Adding ErrorDetailsSrc.h
+  Adding HandleEmulatorSrc.h
+  Adding EmulatorMsgSrc.h
+  Adding VoiceRecData.h
+  Adding FDP.h
+  Adding VoiceRecHandlers.h
+  Adding VoiceRecSrc.h
+  Adding VoiceRec.h
+  Adding VoiceRecAcList.h
+  Adding VoiceRecControlSrc.h
+  Adding BestListSrc.h
+  Adding Bailbrook2BestSrc.h
+  Adding TaskEditSrc.h
+  Adding ScriptItemSrc.h
+  Adding StripPrinterSrc.h
+  Adding FPStripPrintSrc.h
+  Adding UserDetailsSrc.h
+  Adding DFS2BestSrc.h
+  Adding EditPrinterSrc.h
+  Adding EditPrintersSrc.h
+  Adding NewStripFormatSrc.h
+  Adding PrinterDefaultSrc.h
+  Adding PrintStripFileSrc.h
+  Adding StripProgressSrc.h
+  Adding StripEditSrc.h
+  Adding StripFormatEditSrc.h
+  Adding StripFormatItemEditSrc.h
+  Adding StripFormatSelectSrc.h
+  Adding StripItemEditSrc.h
+  Adding CRYPTO32.H
+  Adding VDFList.h
+  Adding VoiceEditor.h
+  Adding TestFormChangeDS.h
+  Adding VDFEditorSrc.h
+  Adding changeAirspaceSplashSrc.h
+  Adding VoiceEditorEdit.h
+  Adding WaveObj.h
+  Adding VoiceRecEngine.h
+  Adding VoiceRecExitDialog.h
+  Adding VoiceRecFixList.h
+  Adding VoiceRecPromptList.h
+  Adding VoiceRecMessage.h
+  Adding VoiceRecDebug.h
+  Adding StreamUtils.h
+  Adding SAPIS.h
+  Adding SAPI.h
+  Adding MAAS2BestSrc.h
+  Adding Swiss2BestSrc.h
+  Adding Joystick.h
+  Adding Grammar.h
+  Adding NewRoute.h
+  Adding route1.h
+  Adding InfoDisplaySrc.h
+  Adding ATGInfoDisplaySrc.h
+  Adding InfoDisplay.h
+  Adding TestForm.h
+  Adding TestFormChangeDSSrc.h
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+  Adding DataPrep.cpp
+  Adding StrUtils.cpp
+  Adding BaseSidStarMapc.cpp
+  Adding MApcEditorSrc.cpp
+  Adding IniFileSrc.cpp
+  Adding ZipSrc.cpp
+  Adding WinMsgFormSrc.cpp
+  Adding FixTransitonEditorSrc.cpp
+  Adding WeatherPop.cpp
+  Adding WeatherGroupSrc.cpp
+  Adding WeatherDataFormFile.cpp
+  Adding WeatherAreaSrc.cpp
+  Adding ValidateSrc.cpp
+  Adding UserPanelSrc.cpp
+  Adding UserMessageHandler.cpp
+  Adding UserDisplaySrc.cpp
+  Adding UserDisplay.cpp
+  Adding UserData.cpp
+  Adding UserAircraftSrc.cpp
+  Adding UDPSock.cpp
+  Adding TypeNewNodeSrc.cpp
+  Adding typedef.cpp
+  Adding TransitionLevel.cpp
+  Adding TrailListSrc.cpp
+  Adding TrailLengthSelectSrc.cpp
+  Adding TrafficHighlightSelectSrc.cpp
+  Adding TimeUtil.cpp
+  Adding TimerForm.cpp
+  Adding TextSizeSelectSrc.cpp
+  Adding TextOutputUtils.cpp
+  Adding TextOutPutSrc.cpp
+  Adding TestTransitionLevelSrc.cpp
+  Adding TestTransitionLevel.cpp
+  Adding TestSitWinListMain.cpp
+  Adding TestSitWinList.cpp
+  Adding TestRealATGSrc.cpp
+  Adding TestRealATG.cpp
+  Adding TestRDMSSrc.cpp
+  Adding TestRDMS.cpp
+  Adding TestRangeSrc.cpp
+  Adding TestRange.cpp
+  Adding TestFormFile.cpp
+  Adding TestATGSrc.cpp
+  Adding TestATG.cpp
+  Adding TestAllSrc.cpp
+  Adding TestAll.cpp
+  Adding TerminatorEditorSrc.cpp
+  Adding TargetListSrc.cpp
+  Adding TakeOffDialogFile.cpp
+  Adding TagFormFile.cpp
+  Adding SystemUpdateProgress.cpp
+  Adding SystemConstants.cpp
+  Adding SupervisorSrc.cpp
+  Adding SupervisorMessageOut.cpp
+  Adding SupervisorFormFile.cpp
+  Adding Supervisor.cpp
+  Adding SuperErrorFormFile.cpp
+  Adding SuperDLLData.cpp
+  Adding SuperDLL.cpp
+  Adding stereo.cpp
+  Adding StartTimeFormFile.cpp
+  Adding STAREditorSrc.cpp
+  Adding SSRDialogFile.cpp
+  Adding SpeedSrc.cpp
+  Adding SpeedDialogFile.cpp
+  Adding SpeedBarFormFile.cpp
+  Adding SOBSrc.cpp
+  Adding SOB.cpp
+  Adding SituationWindowSrc.cpp
+  Adding SituationWindowListSrc.cpp
+  Adding SituationWindowDraw.cpp
+  Adding SimEngine.cpp
+  Adding SIDEditorSrc.cpp
+  Adding SetupFormSrc.cpp
+  Adding SelectNodeSrc.cpp
+  Adding SectorEditSrc.cpp
+  Adding ScriptUtils.cpp
+  Adding ScriptSrc.cpp
+  Adding ScriptPop.cpp
+  Adding ScriptEditorSrc.cpp
+  Adding ScreenCoordinates.cpp
+  Adding SaveDetailsFormFile.cpp
+  Adding RwaySelectFormFile.cpp
+  Adding RunwayTransitionEditorSrc.cpp
+  Adding RunwaySrc.cpp
+  Adding RunwayEditorSrc.cpp
+  Adding RunwayApproachDialogFile.cpp
+  Adding RunSuperDLLFile.cpp
+  Adding RunSuperDLL.cpp
+  Adding RunFastSrc.cpp
+  Adding RTPromptList.cpp
+  Adding RouteExtrapolationSrc.cpp
+  Adding RouteElementEditorSrc.cpp
+  Adding RouteDialogFile.cpp
+  Adding RouteConversion.cpp
+  Adding ResultsPageSrc.cpp
+  Adding ResetKeySrc.cpp
+  Adding ResetKey.cpp
+  Adding ReportSelectDialog.cpp
+  Adding ReportDialogFile.cpp
+  Adding ReplayListSrc.cpp
+  Adding RepairAircraftFormSrc.cpp
+  Adding RemoveAircraftFormFile.cpp
+  Adding ReloadCommandsSrc.cpp
+  Adding ReinstateAircraftFormFile.cpp
+  Adding RecordTypes.cpp
+  Adding RDMSTypes.cpp
+  Adding RDMSModes.cpp
+  Adding RDMSData.cpp
+  Adding RDMS.cpp
+  Adding rate of turn.cpp
+  Adding RangesSrc.cpp
+  Adding RangeRingSelect.cpp
+  Adding RadarSrc.cpp
+  Adding RadarServiceSelectSrc.cpp
+  Adding RadarFormFile.cpp
+  Adding RadarEditorSrc.cpp
+  Adding QuestionOutputSrc.cpp
+  Adding QuestionInputSrc.cpp
+  Adding PWError.cpp
+  Adding PublicMsgSrc.cpp
+  Adding ProjectionSrc.cpp
+  Adding ProfileEditorSrc.cpp
+  Adding PrimaryDisplay.cpp
+  Adding PredictVectorSelectSrc.cpp
+  Adding PositionTypes.cpp
+  Adding PositionTypeChoiceSrc.cpp
+  Adding PositionSrc.cpp
+  Adding PilotSrc.cpp
+  Adding PilotMMISrc.cpp
+  Adding PilotMMIErrorForm.cpp
+  Adding PilotMessageOut.cpp
+  Adding PilotDLLDummyData.cpp
+  Adding PilotDLLDummy.cpp
+  Adding PilotDLLData.cpp
+  Adding PilotDLL.cpp
+  Adding Pilot.cpp
+  Adding PerformanceSrc.cpp
+  Adding PerformancePop.cpp
+  Adding PasswordSrc.cpp
+  Adding PasswordError.cpp
+  Adding OwnNavDialogFile.cpp
+  Adding NotLicenced.cpp
+  Adding NodeManagerSrc.cpp
+  Adding NoContact.cpp
+  Adding NLError.cpp
+  Adding NercConvertData.cpp
+  Adding NercConvert.cpp
+  Adding NCError.cpp
+  Adding NavigationDialogFile.cpp
+  Adding MessageQueue.cpp
+  Adding MessageHandler.cpp
+  Adding MasterDataFormSrc.cpp
+  Adding AliveFormSrc.cpp
+  Adding MapPop.cpp
+  Adding MapObjectEditSrc.cpp
+  Adding MapListSrc.cpp
+  Adding MapLayerSrc.cpp
+  Adding MapLayerSelectSrc.cpp
+  Adding MapLayerEditSrc.cpp
+  Adding MapFileLoader.cpp
+  Adding LocalConfigSrc.cpp
+  Adding LoadErrorSrc.cpp
+  Adding LevelDialogFile.cpp
+  Adding Launcher.cpp
+  Adding LandingDialogFile.cpp
+  Adding LabelFields.cpp
+  Adding LabelDirectionSelectSrc.cpp
+  Adding KillDialogSrc.cpp
+  Adding JumpToTimeSrc.cpp
+  Adding JumpFormFile.cpp
+  Adding InputTagSrc.cpp
+  Adding InputNameSrc.cpp
+  Adding InitialisationMsg.cpp
+  Adding InfoSysData.cpp
+  Adding InfoSys.cpp
+  Adding InformationFormFile.cpp
+  Adding ImportReportSrc.cpp
+  Adding ImportQueryFormSrc.cpp
+  Adding IdNameList.cpp
+  Adding HoldingDialogFile.cpp
+  Adding HoldEditorSrc.cpp
+  Adding HeightFilterSrc.cpp
+  Adding GetNetNameSrc.cpp
+  Adding GetNetName.cpp
+  Adding geometry.cpp
+  Adding geodesic.cpp
+  Adding FrequencyDialogFile.cpp
+  Adding FPGroupEditSrc.cpp
+  Adding FPEditSrc.cpp
+  Adding FlightPlanFormFile.cpp
+  Adding FixSrc.cpp
+  Adding FixListItem.cpp
+  Adding FixList.cpp
+  Adding FixEditorSrc.cpp
+  Adding ExtractLatLong.cpp
+  Adding ExtractionSrc.cpp
+  Adding ExtractFromDBFile.cpp
+  Adding ExerciseRunFormFile.cpp
+  Adding ExercisePop.cpp
+  Adding ExercisePlaybackFormFile.cpp
+  Adding ExerciseListSrc.cpp
+  Adding ExerciseEditSrc.cpp
+  Adding EventFormFile.cpp
+  Adding ERBMSrc.cpp
+  Adding EmergencyDialogSrc.cpp
+  Adding ElapsedTimes.cpp
+  Adding EditPasswordSrc.cpp
+  Adding earthparams.cpp
+  Adding DisplaySrc.cpp
+  Adding DFWeatherFile.cpp
+  Adding DFMainForm.cpp
+  Adding DemoSplashSrc.cpp
+  Adding DeleteReplaceSrc.cpp
+  Adding DeferredCommandListSrc.cpp
+  Adding DeferredCommandForm.cpp
+  Adding DBExtractor.cpp
+  Adding DataPrepSrc.cpp
+  Adding DataPrepSplashSrc.cpp
+  Adding DataPrepPasswordSrc.cpp
+  Adding DataPopMain.cpp
+  Adding DataPop.cpp
+  Adding DataLoader.cpp
+  Adding DataExtract.cpp
+  Adding CWeatherSrc.cpp
+  Adding CSpeedSrc.cpp
+  Adding CSpeedOld.cpp
+  Adding CSidStar.cpp
+  Adding CSectorSrc.cpp
+  Adding Crypto.cpp
+  Adding CRunwaySrc.cpp
+  Adding CRouteLegSrc.cpp
+  Adding CRouteLeg_TerminatorSrc.cpp
+  Adding CRouteLeg_ConstraintSrc.cpp
+  Adding CRouteData.cpp
+  Adding CreatePasswordFileSrc.cpp
+  Adding CreatePassword.cpp
+  Adding crc.cpp
+  Adding CRangeSrc.cpp
+  Adding CRadarList.cpp
+  Adding ConvertData.cpp
+  Adding ConvertAllData.cpp
+  Adding ControllerSrc.cpp
+  Adding Controller.cpp
+  Adding ConfirmExitDialog.cpp
+  Adding ConfigListSrc.cpp
+  Adding ConfigList.cpp
+  Adding ConfigFormSrc.cpp
+  Adding ConfigBuilder.cpp
+  Adding CommandListSrc.cpp
+  Adding CommandDescriptions.cpp
+  Adding ColourTestSrc.cpp
+  Adding ColourTest.cpp
+  Adding ColourPasswordForm.cpp
+  Adding ColourLoadSrc.cpp
+  Adding ColourDialogSrc.cpp
+  Adding CMissedAPCSrc.cpp
+  Adding CLevelSrc.cpp
+  Adding CircuitSrc.cpp
+  Adding ChangeRunwayFormFile.cpp
+  Adding CFLListSrc.cpp
+  Adding CFlightPlanSrc.cpp
+  Adding CFlightManager.cpp
+  Adding CFlightList.cpp
+  Adding CFixSrc.cpp
+  Adding CExerciseSrc.cpp
+  Adding CApproachSrc.cpp
+  Adding CallsignListFile.cpp
+  Adding CallsignFormFile.cpp
+  Adding CAirwaySrc.cpp
+  Adding CAirspace.cpp
+  Adding CAirportSrc.cpp
+  Adding CAcTypeSrc.cpp
+  Adding BESTSrc.cpp
+  Adding WelcomeSrc.cpp
+  Adding BestManSrc.cpp
+  Adding BestManSocketList.cpp
+  Adding BestManMessage.cpp
+  Adding BestMan.cpp
+  Adding BestKeyCalc.cpp
+  Adding BestKey.cpp
+  Adding PasswordUtils.cpp
+  Adding BEST.cpp
+  Adding AtTimeFormFile.cpp
+  Adding AtSelectDialogSrc.cpp
+  Adding AtLevelFormFile.cpp
+  Adding AtHeadingFormFile.cpp
+  Adding AtgThread.cpp
+  Adding ATGMessageOut.cpp
+  Adding ATGMessageHandler.cpp
+  Adding AtgDLLSrc.cpp
+  Adding AtgDLL.cpp
+  Adding ATGData.cpp
+  Adding ATGCalculator.cpp
+  Adding ATGAircraftListSrc.cpp
+  Adding AtFixFormFile.cpp
+  Adding AreaDataScreen.cpp
+  Adding AreaDataFrm.cpp
+  Adding ApproachEditorSrc.cpp
+  Adding Alone.cpp
+  Adding AirwaySrc.cpp
+  Adding AirspaceSelectFile.cpp
+  Adding AirspacePop.cpp
+  Adding AirspaceListSrc.cpp
+  Adding AirspaceEditorSrc.cpp
+  Adding AirspaceAssociateSrc.cpp
+  Adding AirportListSrc.cpp
+  Adding AirfieldEditorSrc.cpp
+  Adding AircraftUpdateMsg.cpp
+  Adding AircraftListSrc.cpp
+  Adding AircraftListItem.cpp
+  Adding AircraftList.cpp
+  Adding ACTypeSrc.cpp
+  Adding ACTypeArraySrc.cpp
+  Adding DMsrc.cpp
+  Adding BestFileSrc.cpp
+  Adding ConditionEditorSrc.cpp
+  Adding SplashBaseSidStarMapcSrc.cpp
+  Adding BaseSidStarMApcDFSrc.cpp
+  Adding FDPSectorSrc.cpp
+  Adding FixFlowSrc.cpp
+  Adding SectorCountSrc.cpp
+  Adding SectorLoadSrc.cpp
+  Adding SLIM.cpp
+  Adding SLIMSrc.CPP
+  Adding DataPrepAboutBoxSrc.cpp
+  Adding Best100to101.cpp
+  Adding BestError.cpp
+  Adding ErrorDialog.cpp
+  Adding BestFileUpdateSrc.cpp
+  Adding FirstSplashSrc.cpp
+  Adding AirspaceDelete.cpp
+  Adding BestRestoreSrc.cpp
+  Adding InstallBEST.cpp
+  Adding InstallSrc.cpp
+  Adding BestMsgSrc.cpp
+  Adding Catc2Best.cpp
+  Adding Catc2BestSrc.cpp
+  Adding WhatLevelSrc.cpp
+  Adding FDP.cpp
+  Adding ArchiveReplaySrc.cpp
+  Adding ErrorDetailsSrc.cpp
+  Adding OrthogonSrc.cpp
+  Adding HandleEmulatorSrc.cpp
+  Adding EmulatorMsgSrc.cpp
+  Adding FrSrc.cpp
+  Adding wxdataform.cpp
+  Adding CryptoData.cpp
+  Adding VoiceRecHandlers.cpp
+  Adding VoiceRecSrc.cpp
+  Adding VoiceRec.cpp
+  Adding VoiceRecAcList.cpp
+  Adding VoiceRecControlSrc.cpp
+  Adding VoiceRecData.cpp
+  Adding StripPrinterSrc.cpp
+  Adding Bailbrook2Best.cpp
+  Adding Bailbrook2BestSrc.cpp
+  Adding BestListSrc.cpp
+  Adding UserDetailsSrc.cpp
+  Adding MAAS2Best.cpp
+  Adding TaskEditSrc.cpp
+  Adding ScriptItemSrc.cpp
+  Adding TestFormSrc.cpp
+  Adding DFS2Best.cpp
+  Adding FPStripPrintSrc.cpp
+  Adding DFS2BestSrc.cpp
+  Adding MakeStripFile.cpp
+  Adding EditPrintersSrc.cpp
+  Adding EditPrinterSrc.cpp
+  Adding NewStripFormatSrc.cpp
+  Adding PrinterDefaultSrc.cpp
+  Adding PrintStripFileSrc.cpp
+  Adding StripProgressSrc.cpp
+  Adding StripEditSrc.cpp
+  Adding StripFormatEditSrc.cpp
+  Adding StripFormatItemEditSrc.cpp
+  Adding StripFormatSelectSrc.cpp
+  Adding StripItemEditSrc.cpp
+  Adding VDFList.cpp
+  Adding TestFormChangeDS.cpp
+  Adding VDFEditorSrc.cpp
+  Adding changeAirspaceSplashSrc.cpp
+  Adding WaveObj.cpp
+  Adding VoiceEditorEdit.cpp
+  Adding VoiceEditor.cpp
+  Adding VoiceRecEditor.cpp
+  Adding VoiceRecEngine.cpp
+  Adding VoiceRecExitDialog.cpp
+  Adding VoiceRecFixList.cpp
+  Adding VoiceRecPromptList.cpp
+  Adding VoiceRecMessage.cpp
+  Adding VoiceRecDebug.cpp
+  Adding StreamUtils.cpp
+  Adding MAAS2BestSrc.cpp
+  Adding SAPI.cpp
+  Adding SAPIS.cpp
+  Adding Swiss2Best.cpp
+  Adding Swiss2BestSrc.cpp
+  Adding Joystick.cpp
+  Adding Grammar.cpp
+  Adding Mapr.cpp
+  Adding TestForm.cpp
+  Adding NewRoute.cpp
+  Adding ATGInfoDisplaySrc.cpp
+  Adding InfoDisplay.cpp
+  Adding InfoDisplaySrc.cpp
+  Adding TestFormChangeDSSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+  Adding DataPrep.bpr
+  Adding UserDisplay.bpr
+  Adding TestTransitionLevel.bpr
+  Adding TestSitWinList.bpr
+  Adding TestRealATG.bpr
+  Adding TestRDMS.bpr
+  Adding TestRange.bpr
+  Adding TestATG.bpr
+  Adding TestAll.bpr
+  Adding Supervisor.bpr
+  Adding SuperDLL.bpr
+  Adding SOB.bpr
+  Adding RunSuperDLL.bpr
+  Adding ResetKey.bpr
+  Adding RDMS.bpr
+  Adding PWError.bpr
+  Adding PrimaryDisplay.bpr
+  Adding PilotDLLDummy.bpr
+  Adding PilotDLL.bpr
+  Adding Pilot.bpr
+  Adding NLError.bpr
+  Adding NercConvertData.bpr
+  Adding NCError.bpr
+  Adding Launcher.bpr
+  Adding InfoSys.bpr
+  Adding GetNetName.bpr
+  Adding DBExtractor.bpr
+  Adding DataPop.bpr
+  Adding CreatePassword.bpr
+  Adding ConvertAllData.bpr
+  Adding Controller.bpr
+  Adding ConfigBuilder.bpr
+  Adding ColourTest.bpr
+  Adding BestMan.bpr
+  Adding BestKeyCalc.bpr
+  Adding BEST.bpr
+  Adding AtgDLL.bpr
+  Adding AreaDataScreen.bpr
+  Adding Alone.bpr
+  Adding SLIM.bpr
+  Adding BestError.bpr
+  Adding Best100to101.bpr
+  Adding MAAS2Best.bpr
+  Adding InstallBEST.bpr
+  Adding Catc2Best.bpr
+  Adding VoiceRec.bpr
+  Adding Bailbrook2Best.bpr
+  Adding DFS2Best.bpr
+  Adding MakeStripFile.bpr
+  Adding VoiceRecEditor.bpr
+  Adding Swiss2Best.bpr
+  Adding NewRoute.bpr
+  Adding InfoDisplay.bpr
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating TerminatorEditorSrc.dfm
+updating RouteElementEditorSrc.dfm
+updating MasterDataFormSrc.dfm
+updating DataPrepSrc.dfm
+updating BaseSidStarMapc.dfm
+updating ConditionEditorSrc.dfm
+updating BaseSidStarMApcDFSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating RouteElementEditorSrc.h
+updating BaseSidStarMapc.h
+updating ConditionEditorSrc.h
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating BaseSidStarMapc.cpp
+updating TerminatorEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating ConditionEditorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating RunwayTransitionEditorSrc.dfm
+updating RouteElementEditorSrc.dfm
+updating MasterDataFormSrc.dfm
+updating ApproachEditorSrc.dfm
+updating BaseSidStarMapc.dfm
+updating ConditionEditorSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating STAREditorSrc.h
+updating SIDEditorSrc.h
+updating RunwayTransitionEditorSrc.h
+updating RouteElementEditorSrc.h
+updating MApcEditorSrc.h
+updating ApproachEditorSrc.h
+updating BaseSidStarMapc.h
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating DataPrep.cpp
+updating BaseSidStarMapc.cpp
+updating MApcEditorSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RunwayEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating DataPrepSrc.cpp
+updating ApproachEditorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating RunwayTransitionEditorSrc.dfm
+updating ConditionEditorSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating DataPrepSrc.h
+updating RunwayTransitionEditorSrc.h
+updating ConditionEditorSrc.h
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating DataPrep.cpp
+updating BaseSidStarMapc.cpp
+updating FixTransitonEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating DataPrepSrc.cpp
+updating ConditionEditorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating DataPrep.bpr
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating MasterDataFormSrc.dfm
+updating DataPrepSrc.dfm
+updating DataPrepSplashSrc.dfm
+updating DataPopMain.dfm
+updating BaseSidStarMapc.dfm
+updating AirspaceAssociateSrc.dfm
+updating ConditionEditorSrc.dfm
+updating BaseSidStarMApcDFSrc.dfm
+updating DataPrepAboutBoxSrc.dfm
+updating FirstSplashSrc.dfm
+updating SplashBaseSidStarMapcSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating DataPrepSrc.h
+updating MasterDataFormSrc.h
+updating MApcEditorSrc.h
+updating DataPrepSplashSrc.h
+updating AirspaceAssociateSrc.h
+updating BaseSidStarMapc.h
+updating ConditionEditorSrc.h
+updating DataPrepAboutBoxSrc.h
+updating FirstSplashSrc.h
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating DataPrep.cpp
+updating BaseSidStarMapc.cpp
+updating MApcEditorSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating DataPrepSrc.cpp
+updating DataPopMain.cpp
+updating ApproachEditorSrc.cpp
+updating AirspaceAssociateSrc.cpp
+updating ConditionEditorSrc.cpp
+updating BaseSidStarMApcDFSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+updating DataPrep.bpr
+updating Zip file c:\projects\best\backup.zip
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- Hs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- CPPs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+--- BPRs 
+WinZip(R) Command Line Support Add-On 7.0 beta (2265)
+Copyright (c) Nico Mak Computing, Inc. 1991-1999 - All Rights Reserved
+
+CAUTION: THIS IS A PRE-RELEASE BETA TEST VERSION
+PLEASE USE THIS VERSION ONLY IF YOU ARE COMFORTABLE USING BETA TEST SOFTWARE
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+
+*********************************************************************
+* THIS PRE-RELEASE BETA TEST VERSION IS QUITE OLD                   *
+*********************************************************************
+* This version will continue to run, but will display this message  *
+* when you use it. You are strongly encouraged to download the      *
+* current version from the WinZip web site at http://www.winzip.com *
+*********************************************************************
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating RouteElementEditorSrc.dfm
+updating FixTransitonEditorSrc.dfm
+updating DataPrepPasswordSrc.dfm
+updating BaseSidStarMapc.dfm
+updating TestFormSrc.dfm
+updating TestFormChangeDS.dfm
+  Adding TestFormChangeSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating RouteElementEditorSrc.h
+updating DataPrepPasswordSrc.h
+updating TestFormSrc.h
+  Adding TestFormChangeSrc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating DataPrep.cpp
+updating BaseSidStarMapc.cpp
+updating TerminatorEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating DataPrepSrc.cpp
+updating DataPrepPasswordSrc.cpp
+updating AirfieldEditorSrc.cpp
+updating TestFormSrc.cpp
+  Adding TestFormChangeSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating DataPrep.bpr
+updating Zip file c:\projects\best\backup.zip
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating TerminatorEditorSrc.dfm
+updating RunwayTransitionEditorSrc.dfm
+updating RunwayEditorSrc.dfm
+updating RouteElementEditorSrc.dfm
+updating FixTransitonEditorSrc.dfm
+updating DataPrepSplashSrc.dfm
+updating ApproachEditorSrc.dfm
+updating BaseSidStarMapc.dfm
+updating AirfieldEditorSrc.dfm
+updating ConditionEditorSrc.dfm
+updating BaseSidStarMApcDFSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating DataPrepSplashSrc.h
+updating AirfieldEditorSrc.h
+updating BaseSidStarMApcDFSrc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating DataPrep.cpp
+updating BaseSidStarMapc.cpp
+updating RunwayEditorSrc.cpp
+updating MasterDataFormSrc.cpp
+updating DataPrepSrc.cpp
+updating AirfieldEditorSrc.cpp
+updating ConditionEditorSrc.cpp
+updating BaseSidStarMApcDFSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating RunwayEditorSrc.dfm
+updating MasterDataFormSrc.dfm
+updating ApproachEditorSrc.dfm
+updating AirfieldEditorSrc.dfm
+updating BaseSidStarMApcDFSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating DataPrepSrc.h
+updating RunwayEditorSrc.h
+updating RouteElementEditorSrc.h
+updating MasterDataFormSrc.h
+updating ApproachEditorSrc.h
+updating AirfieldEditorSrc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating FixTransitonEditorSrc.cpp
+updating TerminatorEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RunwayEditorSrc.cpp
+updating RouteElementEditorSrc.cpp
+updating DataPrepSrc.cpp
+updating ApproachEditorSrc.cpp
+updating AirfieldEditorSrc.cpp
+updating ConditionEditorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating RunwayEditorSrc.dfm
+updating MasterDataFormSrc.dfm
+updating BaseSidStarMapc.dfm
+updating BaseSidStarMApcDFSrc.dfm
+updating VDFEditorSrc.dfm
+  Adding AloneFormSrc.dfm
+  Adding BestMessageSrc.dfm
+  Adding ConfigSelectFormSrc.dfm
+  Adding InstructorPasswordSrc.dfm
+  Adding InstructorSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating RunwayEditorSrc.h
+updating CWeatherSrc.h
+updating ATGMessageHandler.h
+updating BaseSidStarMApcDFSrc.h
+updating StripPrinterSrc.h
+updating VDFEditorSrc.h
+  Adding FileUtils.h
+  Adding AloneFormSrc.h
+  Adding BestMessageSrc.h
+  Adding ConfigSelectFormSrc.h
+  Adding InstructorPasswordSrc.h
+  Adding InstructorSrc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating MApcEditorSrc.cpp
+updating FixTransitonEditorSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RunwayEditorSrc.cpp
+updating CWeatherSrc.cpp
+updating ATGMessageHandler.cpp
+updating BaseSidStarMApcDFSrc.cpp
+updating StripPrinterSrc.cpp
+updating VDFEditorSrc.cpp
+  Adding FileUtils.cpp
+  Adding AloneFormSrc.cpp
+  Adding BestMessageSrc.cpp
+  Adding ConfigSelectFormSrc.cpp
+  Adding InstructorPasswordSrc.cpp
+  Adding InstructorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- Hs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- CPPs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating BaseSidStarMapc.cpp
+updating MApcEditorSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RunwayEditorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating RunwayEditorSrc.dfm
+updating MasterDataFormSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating RunwayEditorSrc.h
+updating MasterDataFormSrc.h
+updating AirfieldEditorSrc.h
+updating BaseSidStarMapc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating BaseSidStarMapc.cpp
+updating MApcEditorSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating RunwayEditorSrc.cpp
+updating AirfieldEditorSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating RunwayEditorSrc.dfm
+updating MasterDataFormSrc.dfm
+updating FixTransitonEditorSrc.dfm
+updating BaseSidStarMapc.dfm
+updating AirfieldEditorSrc.dfm
+updating TestFormChangeSrc.dfm
+  Adding SaveSplashSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating RunwayEditorSrc.h
+updating MasterDataFormSrc.h
+updating FixTransitonEditorSrc.h
+updating AirfieldEditorSrc.h
+updating BaseSidStarMapc.h
+  Adding SaveSplashSrc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating DataPrep.cpp
+updating BaseSidStarMapc.cpp
+updating MApcEditorSrc.cpp
+updating FixTransitonEditorSrc.cpp
+updating STAREditorSrc.cpp
+updating SIDEditorSrc.cpp
+updating RunwayTransitionEditorSrc.cpp
+updating RunwayEditorSrc.cpp
+updating ApproachEditorSrc.cpp
+updating AirfieldEditorSrc.cpp
+updating TestFormSrc.cpp
+updating TestFormChangeSrc.cpp
+  Adding SaveSplashSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating DataPrep.bpr
+updating Zip file c:\projects\best\backup.zip
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating BestManSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating IniFileSrc.h
+updating ConfigList.h
+updating BestManSrc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating IniFileSrc.cpp
+updating RunwayEditorSrc.cpp
+updating ConfigList.cpp
+updating BestManSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+updating DataPrepPasswordSrc.dfm
+updating BestManSrc.dfm
+updating BaseSidStarMApcDFSrc.dfm
+updating Zip file c:\projects\best\backup.zip
+--- Hs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating BestManSrc.h
+updating Zip file c:\projects\best\backup.zip
+--- CPPs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+updating BestManSrc.cpp
+updating Zip file c:\projects\best\backup.zip
+--- BPRs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+Press any key to continue . . .
+
+Press any key to continue . . .
+--- new backup 
+--- DFMs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Command line: C:\PROGRA~1\WINZIP\WZZIP.EXE -^ -u c:\projects\best\backup.zip c:\projects\best\source\*.dfm 
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- Hs 
+WinZip(R) Command Line Support Add-On Version 1.0 (Build 3181)
+Copyright (c) WinZip Computing, Inc. 1991-2000 - All Rights Reserved
+
+Error: No files were found for this action that match your criteria - nothing to do. (c:\projects\best\backup.zip)
+--- CPPs 
+Press any key to continue . . .

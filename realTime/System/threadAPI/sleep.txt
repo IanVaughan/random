@@ -1,0 +1,9 @@
+sleep(long)
+-----------
+public static void sleep(long)
+
+
+Causes the thread to stop execution 
+for a specified number of milli seconds.
+
+For more information see thread examples

@@ -1,0 +1,27 @@
+wait / notify
+
+This is a much better way of communicating change to other threads. If the value is in the 
+proccess of being changed, the calling thread goes into wait() and falls asleep. As soon 
+as the data has been changed, a call to the sleeping thread is made using notify(). The 
+calling thread will then be awake and able to access the updated data.
+
+
+private boolean value = false;
+
+public synchronized void waitUntilTrue() throws InterruptedException
+{
+	while ( value == false)
+	{
+		wait();
+	}
+}
+
+
+public synchronized void setValue(boolean newValue)
+{
+	if ( newValue != value)
+	{
+		value = newValue;
+		notify();
+	}
+}

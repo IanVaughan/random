@@ -1,0 +1,9 @@
+resume()
+---------------------------------------------------
+public final void resume() throws SecurityException 
+
+Allows this thread to resume execution after being
+suspended. Throws a SecurityException if the current 
+thread is notpermitted to access this thread.
+
+For more information see thread examples

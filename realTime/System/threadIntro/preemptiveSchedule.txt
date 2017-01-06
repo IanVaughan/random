@@ -1,0 +1,17 @@
+PRE-EMPTIVE SCHEDULING AND TIME-SLICING
+
+
+The scheduler is responsible for choosing a thread in a runnable state. There are several methods used 
+for scheduling threads.
+
+* Non Preemptive -Threads do not have to be well behaved. A keyboard task could dominate the processor 
+* Preemptive Priority Scheduling - Each thread is given a priority on a scale of 1-10. If there are several 
+   threads in a runnable state, the scheduler will choose the thread with the highest priority
+
+Java uses preemptive priority scheduling. The thread with the highest priority in the runnable state will be 
+executed. When a thread is created it is given a normal priority at level 5. A thread can be initialized with 
+a priority on a scale of 1-10. 
+
+If threads are all given the same priority, the runtime scheduler needs to find another way of selecting 
+threads for execution. The scheduler uses time-slicing. Each thread is given a time-slice of execution 
+time and the processor runs each thread in a round-robin manner. 

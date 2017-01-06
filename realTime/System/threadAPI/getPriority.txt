@@ -1,0 +1,8 @@
+getPriority()
+--------------
+public final int getPriority()
+
+Returns the priority of the thread.
+
+Related method: setPriority
+For more information see thread examples

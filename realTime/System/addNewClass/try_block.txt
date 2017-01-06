@@ -1,0 +1,9 @@
+try and catch block
+--------------------------
+
+The try block is commonly used when writing multithreaded classes. Within
+the try block you can put a thread to sleep. Any interrupted exceptions can
+be caught by the catch block, and the program will remain running.
+
+For more information go to thread examples in help.
+

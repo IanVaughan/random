@@ -1,0 +1,46 @@
+<!--#INCLUDE FILE="config.inc" -->
+    <%
+    set my_conn= Server.CreateObject("ADODB.Connection")
+    my_Conn.Open ConnString
+    strSQL = "Select * from advert order by category, title"
+    set rs = my_conn.Execute(strSQL)
+    %>
+
+<html>
+<head>
+<title>Jon's ASP page</title>
+</head>
+<Style>
+	a:link   {color:"<% =LinkColor%>"}
+	a:visited{color:"<% =VisitedColor%>"}
+	a:hover  {color:"<% =HoverColor%>"}
+</style>
+<body>
+
+<table border="0" width="100%" cellspacing="2" cellpadding="0">
+<tr>
+<td align="center" bgcolor='<%=TitleCellColor%>'><B>Category</B></td>
+<td align="center" bgcolor='<%=TitleCellColor%>'><B>Item</B></td>
+<td align="center" bgcolor='<%=TitleCellColor%>'><B>Price</B></td>
+<td align="center" bgcolor='<%=TitleCellColor%>'><B>Date</B></td>
+</tr>
+
+    <%
+    If rs.Eof or rs.Bof then  ' No Adverts found in DB
+        Response.Write "<tr><td collspan=5>No Adverts Found</td></tr>"
+    Else
+        do until rs.eof 
+            Response.Write "<tr>"
+            Response.Write "<td align='center' valign='top' bgcolor='" & NormalCellColor & "'> <A HREF='viewcat.asp?cat=" & rs("category") & "'>" & rs("category") & "</A></td>"
+            Response.Write "<td align='center' valign='top' bgcolor='" & NormalCellColor & "'> <A HREF='viewdetail.asp?ADID="  & rs("ID") & "'>" & rs("title") & "</A> </td>"
+            Response.Write "<td align='center' valign='top' bgcolor='" & NormalCellColor & "'>" & rs("price") & " </td>"
+            Response.Write "<td align='center' valign='top' bgcolor='" & NormalCellColor & "'>" & rs("date") & " </td>"
+            Response.Write "</tr>"
+
+            rs.MoveNext
+        loop
+    End If
+    %>
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+Enter Inheritance name
+--------------------------------
+
+To enter an inheritance name, follow the following step.
+
+1.  Select 'Yes' from the Any inheritance? section
+2. Enter inheritance name in the text field provided 

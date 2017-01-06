@@ -1,0 +1,10 @@
+Thread.yield()
+------------------------------
+public static native void yield()
+
+
+Causes the current thread to yield
+the processor to other threads.
+
+
+For more information see thread examples

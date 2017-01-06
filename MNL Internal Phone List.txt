@@ -1,0 +1,29 @@
+Reception
+---------
+10 - Jackie/Rita
+
+Management
+----------
+22 - Mike
+25 - Fred
+11 - Tom
+
+Test
+----
+12 - Kevin/Alan
+14 - Demo Room
+
+IT
+--
+13 - Rich/Merek
+16 - ATC/Kitchen/Print&Photo
+
+Engineering
+-----------
+23 - David
+24 - Paul
+17 - Jon
+26 - Ian
+27 - Lee
+15 - Dev Test
+28 - Conference Room

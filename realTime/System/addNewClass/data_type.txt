@@ -1,0 +1,5 @@
+Data type
+-------------
+
+Select a data type from the options available. If no selection is made, the default has
+been set to 'String'

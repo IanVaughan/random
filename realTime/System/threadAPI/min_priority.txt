@@ -1,0 +1,12 @@
+Thread.MIN_PRIORITY
+-------------------
+public static final int MIN_PRIORITY
+
+The lowest thread scheduling priority that can
+be passed to setPriority() for a particular VM.
+Generally, it is 1. Threads running at this
+priority might not get much processor time and 
+might not get any if there are other higher-priority
+threads running.
+
+For more information see thread examples

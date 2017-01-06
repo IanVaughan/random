@@ -1,0 +1,26 @@
+Method based synchronization
+
+Information hiding is at the heart of object oriented programming. An object should use class 
+methods to get and set data. If a thread can only gain access to data through class methods, then 
+the data can be indirectly protected through the method. Methods can be protected by preceding 
+the method name with the keyword synchronized.
+
+The bank account example could synchronize method deposit(), allowing only one thread access 
+at a time.
+
+Synchronized void deposit(int amount, String name) {
+
+Result:
+#1  trying to deposit 1000
+#1  getting balance...
+#1  balance got is 1000
+#1  setting balance...
+#1  new balance set to 2000
+					#2  trying to deposit 1000
+					#2  getting balance...
+					#2  balance got is 2000
+					#2  setting balance...
+					#2  new balance set to 3000
+
+Only one thread can access method deposit at any one time preventing data corruption.
+

@@ -1,0 +1,41 @@
+isInterrupted
+
+This does not alter the status of the thread. It returns true if the thread has been interrupted, and
+otherwise returns false.
+
+public static void main(String[ ] args)
+{
+
+	Thread t = new Thread();
+
+	System.out.println("Point A : interrupted = " + t.isInterrupted() );
+		
+	//interrupt thread
+	t.interrupt();
+
+	System.out.println("Point B : interrupted = " + t.isInterrupted() );
+
+		
+	//pause for a bit
+	try
+	{
+		//delays for 2000 milliseconds
+		Thread.sleep(2000);
+
+		System.out.println("was not interrupted");
+	}
+	catch(InterruptedException x)
+	{
+		System.out.println("was interrupted");
+	}
+
+	System.out.println("Point C : interrupted = " + t.isInterrupted() );
+
+}
+
+Result
+
+Point A : interrupted = false		
+Point B : interrupted = true		-thread has been interrupted
+was interrupted			-try block throws an exception as thread is interrupted
+Point C : interrupted = false		-interrupted flag was cleared by sleep()

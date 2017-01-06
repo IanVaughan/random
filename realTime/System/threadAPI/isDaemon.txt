@@ -1,0 +1,12 @@
+isDaemon()
+--------------
+public final boolean isDaemon()
+
+Returns true if this thread is a daemon 
+thread, or false otherwise. A daemon thread 
+continues to run only as long as there is 
+at least one non-daemon thread still 
+running in the VM.
+
+Related method: setDaemon()
+For more information see thread examples

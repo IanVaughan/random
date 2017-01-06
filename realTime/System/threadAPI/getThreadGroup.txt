@@ -1,0 +1,7 @@
+getThreadGroup()
+-----------------
+public final ThreadGroup getThreadGroup()
+
+Returns the thread group to which the thread
+belongs if the thread is still alive, or null
+if it has died.

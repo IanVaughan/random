@@ -1,0 +1,9 @@
+isInterrupted() 
+------------------
+public boolean isInterrupted()
+
+Returns the interrupted status of the 
+thread and (unlike interrupted()) does 
+not change the status.
+
+For more information see thread examples

@@ -1,0 +1,22 @@
+
+How do I compile the DirectX samples with Borland C++?
+
+It is a little bit tricky to get a DirectX sample to compile with Borland C++. Here's what ya got to do:
+
+Create a new project, be sure to select Win32 as the target platform
+
+Create new .lib's. At the command prompt type something like this:
+>implib ddraw.lib ddraw.dll
+
+You have to do this, because the ones that come with the DirectX sdk are for Visual C++.
+
+Add your new lib and c files to the project.
+
+At the very top of your .c file, before you include ddraw.h toss these couple of lines in:
+#if defined( __BORLANDC__ ) && defined( __WIN32__ )
+#define _WIN32
+#endif
+
+The reason for this one is because Borland and Microsoft use slightly different defines for __WIN32__ 
+And here is a Borland C++ 4.52 project for DDEX1: bcddex1.zip
+

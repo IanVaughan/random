@@ -1,0 +1,57 @@
+bool TRunwayEditSrc::checkJoinMApproach(int runwayID, bool confirm)
+{
+    bool returnVal ;
+
+    joinToMAprQ->ParamByName("RunwayID")->AsInteger = runwayID;
+    joinToMAprQ->Open();
+
+    //if its the last join
+    if(joinToMAprQ->RecordCount == 1)
+    {
+        //make pointer to shorten calls, ie, instead of airspaceApcsDS->DataSet->Filter, it is tempQ->Filter
+        TQuery *tempQ = (TQuery*)MAprQueryDS->DataSet ;
+        tempQ->Close();
+        tempQ->Open();
+        tempQ->Filter = "MApproach_ID='" + joinToMAprQ->FieldByName("MApproach_ID")->AsString + "'" ;
+        tempQ->Filtered = true ;
+
+        //get the runway name so show in the err msg, this is perticularly important when deleting form an aifield
+        // cos the user might have no idea what runways are in the airfield
+        RunwayQ->Filter = "Runway_ID='" + (String)runwayID + "'" ;
+        RunwayQ->Filtered = true ;
+
+        String msgString = "If you delete the Runway '" + RunwayQ->FieldByName("Runway_Name")->AsString ;
+        msgString += "', the Missed Approach '" + tempQ->FieldByName("MApproach_Name")->AsString ;
+        msgString += "' will have no\nRunways assigned to it, and will have to be deleted as well.";
+        msgString += "\nDo you want to delete this Runway and the Missed Approach?";
+        int ans = Application->MessageBox(msgString.c_str(), "Confirm Delete Missed Approach", MB_ICONQUESTION|MB_YESNO);
+        if(ans == ID_NO)
+        {
+            //the canceled the delete
+            returnVal = false ;
+        }
+        else if(ans == ID_YES)
+        {
+            tempQ->Delete();
+            //the user accepted the delete
+            returnVal = true ;
+
+        }
+        else
+        {
+            //the user pressed [x] or ctrl+F4, or it was magic!
+            returnVal = false ;
+        }
+
+        tempQ->Filtered = false ;
+        RunwayQ->Filtered = false ;
+    }
+    else
+    {
+        //there was either no joined recs, or it was not the last one
+        returnVal = true ;
+    }
+
+    joinToMAprQ->Close();
+    return returnVal ;
+}

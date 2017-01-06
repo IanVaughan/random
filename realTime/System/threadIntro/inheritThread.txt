@@ -1,0 +1,16 @@
+INHERIT THREAD
+
+
+There is more than one way of creating a multithreaded application. Threads can be created through the 
+use of inheritance or by implementing an interface.
+
+
+INHERITING CLASS THREAD
+
+Inheritance allows you to inherit all the features of class thread, and therefore gives the thread access to all 
+it's methods. The use of inheritance initially appears quite reasonable until you discover that Java does not 
+support multiple inheritance. A class would be bound to inherit from a super class thread, and nothing else.
+
+
+public class Aeroplane extends thread {
+

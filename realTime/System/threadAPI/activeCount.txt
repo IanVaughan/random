@@ -1,0 +1,8 @@
+Thread.activeCount() 
+---------------------------
+public static int activeCount()
+
+Returns the number of active threads in the
+invoking thread's ThreadGroup 
+
+For more information see thread examples

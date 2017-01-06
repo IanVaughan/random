@@ -1,0 +1,4 @@
+                if(AirwaySegments->FieldByName("AWY_Segment_ID")->AsInteger ==
+                    TheSegmentID)
+                        UpdateSegData->Query[ukModify]->ParamByName
+                            ("Segment_Num")->AsInteger = SegmentOrder-1;

@@ -1,0 +1,7 @@
+Object Sychronization
+--------------------------------
+
+Object synchronization is used to protect data from concurrent access using blocks
+within the method. Another alternative is to synchronized the method.
+
+See thread introduction and thread examples for more information.

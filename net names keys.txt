@@ -1,0 +1,2 @@
+HKEY_LOCAL_MACHINE\Software\Microsoft\Shared Tools\Web Server Extensions
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\VxD\MSTCP

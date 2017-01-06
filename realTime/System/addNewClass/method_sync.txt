@@ -1,0 +1,7 @@
+Method Sychronization
+--------------------------------
+
+Method synchronization is used to protect data from concurrent access. Another
+alternative is to use synchronized blocks.
+
+See thread introduction and thread examples for more information.

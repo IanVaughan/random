@@ -1,0 +1,56 @@
+<!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title> New Document </title>
+</head>
+
+<body>
+<script language="JavaScript">
+<!--
+
+//make this window bigger
+// window.resizeTo(800,600); 
+
+//open AWDS window
+document.open("Default.html", "AWDS", config="screenX=0, screenY=0, width=1280, height=664, alwaysRaised=yes, menubar=no, scrollbars=no, status=no, toolbar=no, titlebar=no, resizable=no")
+
+
+//set timer to auto close this one
+setTimeout("self.close();", 1000)
+
+
+//funky borderless window
+function goNewWin() 
+{
+	//Get what is below onto one line
+	TheNewWin = window.open("Default.html",'TheNewpop','fullscreen=yes,toolbar=no,location=no,directories=no, status=no,menubar=no,scrollbars=no,resizable=no'); 
+
+	//Get what is above onto one line
+	TheNewWin.resizeTo(664,1280);
+	TheNewWin.moveTo(0,0);
+}
+
+//-->
+</script>
+
+
+<!-- ************************************************************************************************************** -->
+
+<CENTER>
+<FORM>
+<input type="Button" VALUE="click me!" onClick="goNewWin()">
+<INPUT TYPE='Button' VALUE='Close Window' onClick='window.close()'>
+</FORM>
+</CENTER>
+
+<script language="JavaScript">
+<!--
+	//move and position the window
+	window.moveTo([X], [Y]);
+	window.resizeTo([WIDTH], [HEIGHT]);
+-->
+</script>
+
+
+</body>
+</html>

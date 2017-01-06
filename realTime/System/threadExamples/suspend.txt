@@ -1,0 +1,10 @@
+Suspending thread execution
+
+
+public void SuspendThread()
+{
+	if ( threadA != null ) //avoid NullPointerException
+	{
+		threadA.suspend();
+	}
+}

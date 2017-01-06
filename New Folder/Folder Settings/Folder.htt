@@ -1,0 +1,6 @@
+<html>
+<frameset rows="40,*">
+<frame src="mybar.html" name="mybar" scrolling="no" noresize>
+<frame src="flist.htt" name="flist" scrolling="no">
+</frameset>
+</html>

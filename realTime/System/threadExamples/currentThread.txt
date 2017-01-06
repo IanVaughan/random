@@ -1,0 +1,5 @@
+Thread.currentThread()
+
+To determine which thread is executing a segment of code we call this method.
+
+Thread t = currentThread();

@@ -1,0 +1,3 @@
+Standalone Application
+
+An application able to execute without the aid of Java.

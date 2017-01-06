@@ -1,0 +1,22 @@
+INTRODUCTION
+
+Conventional computer systems all have a single processor. Often programs are single threaded 
+and have only one line of execution. If the program execution is blocked waiting for the completion 
+of some I/O operation, no other portion of the program can proceed. Multithreading allows multiple 
+processes to execute concurrently within a program. This works by giving each thread a share of 
+processor time.
+
+
+The main advantage of a concurrent system is a better utilization of system resources. The CPU 
+can appear to be performing many tasks at the same time, when in reality the processor is skipping 
+between them all. The processor uses a scheduling system for deciding how much processor time 
+each task will be granted. 
+
+
+A concurrent system can be very effective if created properly. It can also be disastrous. The problems 
+occur when you have badly behaved threads that refuse to give up the processor. Data corruption can 
+occur when two threads simultaneously access the same data. If communication between the threads 
+is bad, deadlock may occur and the system will hang. There are many potential problems that need to 
+be considered when creating such a system.
+
+

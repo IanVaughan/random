@@ -1,0 +1,21 @@
+Thread.sleep()
+
+public static void main(String[ ] args)
+{
+	//create a new thread
+	Thread threadA = new Thread("threadA");
+
+	//start thread
+	threadA.start();
+
+	//pause for a bit
+	try
+	{
+		//delays for 1000 milliseconds
+		Thread.sleep(1000);
+	}
+	catch(InterruptedException x)
+	{
+		//do something
+	}
+}

@@ -1,0 +1,15 @@
+notifyAll()
+
+It's fuctionality is very similar to notify(), but it notifies all threads waiting on the changed
+object. 
+
+
+The advantage 
+
+You do not need to know which threads to notify as they are all notified.
+
+
+The disadvantage
+
+Could be a waste in processor time informing lots of threads when only one need be 
+informed.

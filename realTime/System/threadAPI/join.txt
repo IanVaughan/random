@@ -1,0 +1,10 @@
+join()
+-------------
+public final void join() throws InterruptedException
+
+Causes the current thread to block and wait an
+unlimited amount of time for this thread to die. 
+It will throw an InterruptedException if interrupted 
+while waiting for this thread to die.
+
+For more information see thread examples

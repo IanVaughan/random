@@ -1,0 +1,9 @@
+Thread.sleep(long) 
+------------------------------
+
+
+The highest thread scheduling priority 
+that can be passed to setPriority()
+
+
+For more information see thread examples

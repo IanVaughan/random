@@ -1,0 +1,13 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\Advanced\Folder\ShowAttribCol]
+"Type"="checkbox"
+"Text"="Show file attributes in Detail View"
+"HKeyRoot"=dword:80000001
+"RegPath"="Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced"
+"ValueName"="ShowAttribCol"
+"CheckedValue"=dword:00000001
+"UncheckedValue"=dword:00000000
+"DefaultValue"=dword:00000000
+"HelpID"="update.hlp#51071"
+

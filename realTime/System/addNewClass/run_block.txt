@@ -1,0 +1,9 @@
+run block
+-------------
+
+Each multithreaded class must have a run block. The runtime scheduler is responsible
+for choosing which threads should run and in what order. As soon as a thread has been
+given permission to run, it goes to it's run block to start execution. 
+
+For more information go to thread introduction in help.
+

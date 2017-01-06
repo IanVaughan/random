@@ -1,0 +1,535 @@
+// 4. ===================================================
+     //DeviceCapabilities stuff
+    // need to know printer name and port, must have DEVMODE init first
+    DWORD temp = 0;
+    char *ret1 = "";
+/*    temp = DeviceCapabilities(prnDevice,
+                              prnPort,
+                              DC_MAXEXTENT,
+                              ret1,    //LPTSTR pOutput - pointer to the output
+                              dm);     //CONST DEVMODE *pDevMode - pointer to structure with device data
+*/
+
+// 5. =====================================================
+
+// 6. =========================================================
+    //PageSetupDlg stuff
+    RECT r = Rect(23,24,25,26);
+
+    PAGESETUPDLG *lppsd = new PAGESETUPDLG ;
+    lppsd->Flags = PSD_MARGINS ;
+    lppsd->rtMargin = r ;
+//    lppsd->hDevMode = &dm ;
+
+    PageSetupDlg(lppsd);
+
+
+//    PaintTo(Printer()->Handle, 10, 10); // prints form
+//    int pw = prn->DevMode->dmPaperWidth ; // i wish!!
+
+// 1. =================================================
+    // block gets which is the current printer, returns it in one string. eg. 'my printer on LTP1'
+    int prnIndex = prn->PrinterIndex;        // get which printer where on
+    TStrings *prnList = new TStringList();   // create list to get all priters installed
+    prnList = prn->Printers;                 // get list of printers installed
+    Label1->Caption = prnList->Strings[prnIndex];
+
+
+
+    // -----------------------------------------------------------------------------
+                //now convert inchs to pixels
+                // scale to fit Image1 rect by div inchs by pixels ????
+                // scale = width(pixels) / total inchs accros * # of inches
+                // eg = 528/7.75 = 68.129(pixels per inch)
+
+//scales to fit Image1, so all fps look the same size!
+/*
+                float imageWidth = dest->Width ;
+                float scalex = imageWidth/fpsWidth ;
+                float imageHeight = dest->Height ;
+                float scaley = imageHeight/fpsHeight ;
+                x1 = x1 *scalex ;
+                y1 = y1 *scaley ;
+                x2 = x2 *scalex ;
+                y2 = y2 *scaley ;
+*/
+
+float printPageWidth = 8;  // # of inchs
+float printPageHeight = 10.996875 ;
+float fpsWidth;
+float fpsHeight;
+
+//                float widthInch = dest->PageWidth / printPageWidth;
+//                float heightInch = dest->PageHeight / printPageHeight ; //page height div # of inchs on page (15.95/16)
+
+//                x1 = x1 * widthInch ;
+//                y1 = y1 * heightInch ;
+//                x2 = x2 * widthInch ;
+//                y2 = y2 * heightInch ;
+
+/*                float widthInch = dest->Width / 10;
+                float heightInch = dest->Height / 10 ;
+
+                x1 = x1 * widthInch ;
+                y1 = y1 * heightInch ;
+                x2 = x2 * widthInch ;
+                y2 = y2 * heightInch ;
+
+  */
+
+    //if file empty, tell them!
+        if(strLst_fileData==NULL)  {
+            Application->MessageBox("File is empty!","Read File",MB_OK);
+        }
+        else {
+
+// -----------------------------------------------------------------------------
+void __fastcall TForm1::SpeedButton1Click(TObject *Sender)
+{
+    TPrinter *prn = Printer();      // init a Printer() object to use thoughout this fuction
+    prn->BeginDoc();
+
+
+    // devmode stuff
+/*    short pSize = dev_mode->dmPaperSize ;
+    short pWidth = dev_mode->dmPaperWidth ;
+    short pHeight = dev_mode->dmPaperLength ;
+    DWORD fields = dev_mode->dmFields;
+    short yRes = dev_mode->dmYResolution;
+    short pQ = dev_mode->dmPrintQuality;
+*/
+
+    //GetDeviceCaps stuff
+    float offx = GetDeviceCaps(prn->Handle,PHYSICALOFFSETX);
+    float offy = GetDeviceCaps(prn->Handle,PHYSICALOFFSETY);
+    float dcWidth = GetDeviceCaps(prn->Handle,PHYSICALWIDTH);
+    float dcHeight = GetDeviceCaps(prn->Handle,PHYSICALHEIGHT);
+    float pw = prn->PageWidth ;
+    float ph = prn->PageHeight ;
+
+     prn->EndDoc();
+
+}
+
+int x;
+float r;
+void *p = &x;          /* p points to x */
+
+*(int *) p = 2;
+p = &r;              /* p points to r */
+*(float *)p = 1.1;
+
+
+
+void outputStrip(whereOut _where,
+                 whatOut _what,
+                 int pxlsPerInch,
+                 float x1_in,
+                 float y1_in,
+                 float x2_in = -1,
+                 float y2_in = -1,
+                 AnsiString outText = "",
+                 int point = -1,
+                 TColor tc = clBlack)
+{
+
+//***problem dest is set to Image1, so when case TO_PRN is met, it changes dest to
+//  TPrinter BUT that is local, so when end case is met dest reverts back to Image1
+//LPVOID??
+// TImage *dest = Form1->Image1 ;
+
+    switch(_where) {                // where does the output want to go?
+        case TO_SCR :                  // to the screen
+            {
+              TImage *dest = Form1->Image1 ;      // make dest point to image1
+
+                      int x1 = x1_in * pxlsPerInch ;
+      int y1 = y1_in * pxlsPerInch ;
+      int x2 = x2_in * pxlsPerInch ;
+      int y2 = y2_in * pxlsPerInch ;
+
+// block repeated
+                      // do what action the user needs done
+                      switch(_what) {
+                          case DRAW_LINE :
+                              {
+                                  dest->Canvas->MoveTo(x1,y1);
+                                  dest->Canvas->LineTo(x2,y2); break; //DRAW_LINE
+                              }
+                          case DRAW_FIELD :
+                              {
+                                  dest->Canvas->Font->Size = point ;   // set font to size 'point'
+                                  dest->Canvas->Font->Color = tc ;  // set font color to 'tc'
+                                  dest->Canvas->TextOut(x1,y1,outText); break; //text
+                              }
+                          case DRAW_RECT :
+                              {
+                                  // clear rect
+                                  dest->Canvas->Brush->Color = clWhite;
+                                  dest->Canvas->Rectangle(0,0,dest->Width, dest->Height); // clear DRAW_RECT
+
+                                  // set the rect size to the size of fps
+                                  dest->Width = x2_in * Form1->PixelsPerInch ;
+                                  dest->Height = y2_in * Form1->PixelsPerInch ;
+
+                                  //draw a nice border
+                                  dest->Canvas->Rectangle(x1,y1,x2,y2) ; break; //DRAW_RECT
+                              }
+                      }//end switch
+// end block repeated
+
+                break ;
+            }
+        case TO_PRN :    // printer
+            {
+                  //  TPrinter *dest = Printer();
+                  dest = Printer();
+      int x1 = x1_in * ppw ;
+      int y1 = y1_in * pph;
+      int x2 = x2_in * ppw ;
+      int y2 = y2_in * pph;
+
+// block repeated
+                      // do what action the user needs done
+                      switch(_what) {
+                          case DRAW_LINE :
+                              {
+                                  dest->Canvas->MoveTo(x1,y1);
+                                  dest->Canvas->LineTo(x2,y2); break; //DRAW_LINE
+                              }
+                          case DRAW_FIELD :
+                              {
+                                  dest->Canvas->Font->Size = point ;   // set font to size 'point'
+                                  dest->Canvas->Font->Color = tc ;  // set font color to 'tc'
+                                  dest->Canvas->TextOut(x1,y1,outText); break; //text
+                              }
+                          case DRAW_RECT :
+                              {
+                                  dest->Canvas->Rectangle(x1,y1,x2,y2) ; break; //DRAW_RECT
+                              }
+                      }//end switch
+// end block repeated
+// block has been repeated twice because dest points to TImage for output to the
+// screen, and TPrinter for output to the printer, i cant find a MetaClass that
+// will point to either of them
+
+                break;
+             }
+    }//end switch
+}//end outputStrip
+TPrinter *dest = Printer() ;
+int ppw, pph ;
+enum whereOut {TO_SCR, TO_PRN} ;           // used to choose which output device to use
+enum whatOut {DRAW_LINE, DRAW_FIELD, DRAW_RECT} ;    // which type of output you want
+
+
+
+  VOID *out ;
+        if(bool ian=true)
+             out = new TImage(this);
+        else
+             out = new TPrinter();
+
+        out->BeginDoc();
+        out->Canvas->Rectangle(0,0,100,100);
+        out->EndDoc();
+
+
+//---------------------------------------------------------------------------
+bool showStrip(AnsiString stripName,TStringList *data)
+{
+    TImage *dest = Form1->Image1 ;      // make dest point to image1
+    int anInchX ;
+    int anInchY ;
+    anInchX = anInchY = Form1->PixelsPerInch ;
+
+    //FO "Ians Strip 1" 7.75 1
+    int index = 0;                  // used to hold hte pos of the fps we want out of the StringList
+    int i=0;
+    // find the name passed form the combox box in the strLst_fileData
+    for (i;i<strLst_fileData->Count ;i++) { //loop num of items in strLst_fileData
+        // return the pos of the strip name into index
+        index = strLst_fileData->Strings[i].Pos(stripName) ;
+        if(index!=0) break ; // if found break so we keep where it was found (index)
+    }
+    if(index==-1) // stripName should be their!!
+       Application->MessageBox("Error! Not Found.","Read:showStrip",MB_OK);
+    if(index>0) {
+        AnsiString t1 = strLst_fileData->Strings[i] ; // temp string DRAW_LINE
+        // get the string thats after the name by
+        // creating a substring from the index + length of the stripName + 2 (1 for " and 1 for a whitespace)
+        // to the end of the whole string
+        t1 = t1.SubString(index+stripName.Length()+2, t1.Length());
+
+        //get strip details
+        // width
+        int n_width = t1.Pos(" "); // find space
+        AnsiString s_width = t1.SubString(0,n_width-1); //  get 1st numbers
+        float f_width = s_width.ToDouble(); // convert to float
+        //height
+        AnsiString s_height = t1.SubString(n_width+1,t1.Length()-n_width); // get 2nd numbers
+        float f_height = s_height.ToDouble();
+
+            // clear rect
+            dest->Canvas->Brush->Color = clWhite;
+            dest->Canvas->Rectangle(0,0,dest->Width, dest->Height); // clear DRAW_RECT
+            Form1->Image1->Width = f_width*anInchX ;
+            Form1->Image1->Height = f_height*anInchY ;
+
+//        dest->Canvas->Brush->Color = clWhite;
+
+        //output of rectangle
+        dest->Canvas->Rectangle(0,0,f_width*anInchX,f_height*anInchY) ;
+
+        //other info (LI and text) eg.
+        //  LI 100 0 100 300
+        do{ // repeat thougth stringLines reading id until FO found or end of list
+            i++ ;
+            t1 = strLst_fileData->Strings[i] ; // temp string DRAW_LINE
+            if(t1.Pos("LI")>0) // find out if a LI idenifier is there
+            {
+                AnsiString t2 = t1;   // make a copy so we can muck around with it
+                //x1
+                t2 = t2.SubString(4,t2.Length()-3); // get the numbers after the LI code
+                AnsiString s = t2.SubString(0,t2.Pos(" ")-1); // get first number
+                float x1 = s.ToDouble();
+                //y1
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out num just used
+                s = t2.SubString(0,t2.Pos(" ")-1); // get first number
+                float y1 = s.ToDouble();
+                //x2
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out num just used
+                s = t2.SubString(0,t2.Pos(" ")-1); // get first number
+                float x2 = s.ToDouble();
+                //y2
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out num just used
+                float y2 = t2.ToDouble();
+
+                //draw lines
+                 dest->Canvas->MoveTo(x1*anInchX,y1*anInchY);
+                 dest->Canvas->LineTo(x2*anInchX,y2*anInchY);
+            }
+            else if(t1.Pos("FO")==0) // if not a FO DRAW_FIELD then it must be a name DRAW_FIELD
+            {
+                //eg FO DRAW_LINE : CS 5 5 10 RED
+                AnsiString t2 = t1 ; // copy current DRAW_LINE so we cut muck around with it
+                AnsiString text = t2.SubString(0,t2.Pos(" ")-1);  // get 1st 2 letters,the code '??'
+                // x
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out just used ??
+                AnsiString s = t2.SubString(0,t2.Pos(" ")-1); // get 1st number
+                float x = s.ToDouble();
+                // y
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out just used ??
+                s = t2.SubString(0,t2.Pos(" ")-1); // get first number
+                float y = s.ToDouble();
+                // point
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out just used ??
+                s = t2.SubString(0,t2.Pos(" ")-1); // get first number
+                int point = s.ToInt();
+                //color
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out num just used
+                AnsiString color = t2 ;
+
+                // convert ascii text from file to TColor tc
+                TColor tc ;  // temp color var
+                if(color=="BLACK") tc = clBlack ;
+                if(color=="BLUE") tc = clBlue ;
+                if(color=="RED") tc = clRed ;
+
+                for (int i=0;i<data->Count ;i++)   // loop all of string list
+                {
+                    // if the 'text' from this big if from ubove matches up in the string list passed in
+                    if(data->Strings[i].Pos(text)!=0)
+                    {
+                        AnsiString t9 = data->Strings[i].Delete(1,3); ;
+                        dest->Canvas->Font->Size = point ;   // set font to size 'point'
+                        dest->Canvas->Font->Color = tc ;  // set font color to 'tc'
+                        dest->Canvas->TextOut(x*anInchX,y*anInchY,t9);
+                    }
+                }
+            }
+            //used to show the Image, prob with sizeing if the 2nd size is smaller than the 1st
+
+            if(t1.Pos("FO")>0) break ;
+        }while(i<strLst_fileData->Count-2); //while less than num of items in list
+                                     // or another FO code reached
+    }
+    Form1->Image1->Visible=true;
+
+    return true;
+}//showStrip
+
+// -----------------------------------------------------------------------------
+bool printStrip(AnsiString stripName,TStringList *data)
+{
+        TPrinter *prnOut = Printer() ;
+        prnOut->BeginDoc();
+
+        // block calls GetPrinter to get the current printer settings
+        char ch_device[80] = "";        // create temp char arrays to hold GetPrinter call
+        char ch_driver[80] = "";
+        char ch_port[80] = "";
+        int prnDeviceMode = 0;
+        prnOut->GetPrinter(ch_device, ch_driver, ch_port, prnDeviceMode);
+
+        HANDLE prnHandle ; // the HANDLE to the printer
+        OpenPrinter(ch_device, &prnHandle, NULL); // get a HANDLE to the printer
+
+        LONG docPropRet = DocumentProperties(Form1->Handle, prnHandle,"", NULL, NULL, 0);               // step 1 - get size for DEVMODE struct
+        DEVMODE *dev_mode = (DEVMODE*)malloc(docPropRet) ;                                              // step 2 - create full DEVMODE stuct for size returned
+        docPropRet = DocumentProperties(Form1->Handle, prnHandle, "", dev_mode, 0, DM_OUT_BUFFER);      // step 3 - get the printer settings into a DEVMODE struct
+
+//        int ppw = dev_mode->dmPrintQuality ;
+//        int pph = dev_mode->dmYResolution ;
+
+//        float dcWidth = GetDeviceCaps(prnOut->Handle,PHYSICALWIDTH);
+//        float dcHeight = GetDeviceCaps(prnOut->Handle,PHYSICALHEIGHT);
+//        float pageWidth = prnOut->PageWidth ;
+//        float pageHeight = prnOut->PageHeight ;
+
+//        float offx = GetDeviceCaps(prnOut->Handle,PHYSICALOFFSETX);
+//        float offy = GetDeviceCaps(prnOut->Handle,PHYSICALOFFSETY);
+//        Form1->Label1->Caption = dev_mode->dmPrintQuality ;  //x dpi
+//        Form1->Label2->Caption = dev_mode->dmYResolution ;    //y dpi
+//        Form1->Label3->Caption = dev_mode->dmPaperLength/10 ;
+//        Form1->Label4->Caption = dev_mode->dmPaperWidth/10 ;
+//        Form1->Label5->Caption = dcWidth / ((dev_mode->dmPaperWidth/100)*.39370078)   ;
+//        Form1->Label6->Caption = dcHeight / ((dev_mode->dmPaperLength/100)*.39370078) ;
+
+        int anInchX = dev_mode->dmPrintQuality ;  //x dpi
+        int anInchY = dev_mode->dmYResolution ;
+
+        //printer page size
+
+        float pageWidthInchs = dev_mode->dmPaperWidth/100 * .39370078 ;
+        float pageHeightInchs = dev_mode->dmPaperLength/100 * .39370078 ;
+
+        TRect TheRect;
+        TheRect = Rect(Form1->Image1->Left,
+                                Form1->Image1->Top,
+                                Form1->Image1->Left+(Form1->PixelsPerInch*pageWidthInchs),
+                                Form1->Image1->Top+(Form1->PixelsPerInch*pageHeightInchs));
+
+        Form1->Canvas->FrameRect(TheRect);
+
+
+    //FO "Ians Strip 1" 7.75 1
+    int index = 0;                  // used to hold hte pos of the fps we want out of the StringList
+    int i=0;
+    // find the name passed form the combox box in the strLst_fileData
+    for (i;i<strLst_fileData->Count ;i++) { //loop num of items in strLst_fileData
+        // return the pos of the strip name into index
+        index = strLst_fileData->Strings[i].Pos(stripName) ;
+        if(index!=0) break ; // if found break so we keep where it was found (index)
+    }
+    if(index==-1) // stripName should be their!!
+       Application->MessageBox("Error! Not Found.","Read:showStrip",MB_OK);
+    if(index>0) {
+        AnsiString t1 = strLst_fileData->Strings[i] ; // temp string DRAW_LINE
+        // get the string thats after the name by
+        // creating a substring from the index + length of the stripName + 2 (1 for " and 1 for a whitespace)
+        // to the end of the whole string
+        t1 = t1.SubString(index+stripName.Length()+2, t1.Length());
+
+        //get strip details
+        // width
+        int n_width = t1.Pos(" "); // find space
+        AnsiString s_width = t1.SubString(0,n_width-1); //  get 1st numbers
+        float f_width = s_width.ToDouble(); // convert to float
+        //height
+        AnsiString s_height = t1.SubString(n_width+1,t1.Length()-n_width); // get 2nd numbers
+        float f_height = s_height.ToDouble();
+
+        //output of rectangle
+        prnOut->Canvas->Rectangle(0,0,f_width*anInchX,f_height*anInchY) ;
+
+
+        //other info (LI and text) eg.
+        //  LI 100 0 100 300
+        do{ // repeat thougth stringLines reading id until FO found or end of list
+            i++ ;
+            t1 = strLst_fileData->Strings[i] ; // temp string DRAW_LINE
+            if(t1.Pos("LI")>0) // find out if a LI idenifier is there
+            {
+                AnsiString t2 = t1;   // make a copy so we can muck around with it
+                //x1
+                t2 = t2.SubString(4,t2.Length()-3); // get the numbers after the LI code
+                AnsiString s = t2.SubString(0,t2.Pos(" ")-1); // get first number
+                float x1 = s.ToDouble();
+                //y1
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out num just used
+                s = t2.SubString(0,t2.Pos(" ")-1); // get first number
+                float y1 = s.ToDouble();
+                //x2
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out num just used
+                s = t2.SubString(0,t2.Pos(" ")-1); // get first number
+                float x2 = s.ToDouble();
+                //y2
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out num just used
+                float y2 = t2.ToDouble();
+
+                //draw lines
+                 prnOut->Canvas->MoveTo(x1*anInchX,y1*anInchY);
+                 prnOut->Canvas->LineTo(x2*anInchX,y2*anInchY);
+            }
+            else if(t1.Pos("FO")==0) // if not a FO DRAW_FIELD then it must be a name DRAW_FIELD
+            {
+                //eg FO DRAW_LINE : CS 5 5 10 RED
+                AnsiString t2 = t1 ; // copy current DRAW_LINE so we cut muck around with it
+                AnsiString text = t2.SubString(0,t2.Pos(" ")-1);  // get 1st 2 letters,the code '??'
+                // x
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out just used ??
+                AnsiString s = t2.SubString(0,t2.Pos(" ")-1); // get 1st number
+                float x = s.ToDouble();
+                // y
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out just used ??
+                s = t2.SubString(0,t2.Pos(" ")-1); // get first number
+                float y = s.ToDouble();
+                // point
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out just used ??
+                s = t2.SubString(0,t2.Pos(" ")-1); // get first number
+                int point = s.ToInt();
+                //color
+                t2 = t2.Delete(1,t2.Pos(" ")); // cut out num just used
+                AnsiString color = t2 ;
+
+                // convert ascii text from file to TColor tc
+                TColor tc ;  // temp color var
+                if(color=="BLACK") tc = clBlack ;
+                if(color=="BLUE") tc = clBlue ;
+                if(color=="RED") tc = clRed ;
+
+                for (int i=0;i<data->Count ;i++)   // loop all of string list
+                {
+                    // if the 'text' from this big if from ubove matches up in the string list passed in
+                    if(data->Strings[i].Pos(text)!=0)
+                    {
+                        AnsiString t9 = data->Strings[i].Delete(1,3); ;
+                        prnOut->Canvas->Font->Size = point ;   // set font to size 'point'
+                        prnOut->Canvas->Font->Color = tc ;  // set font color to 'tc'
+                        prnOut->Canvas->TextOut(x*anInchX,y*anInchY,t9);
+                    }
+                }
+            }
+            //used to show the Image, prob with sizeing if the 2nd size is smaller than the 1st
+
+            if(t1.Pos("FO")>0) break ;
+        }while(i<strLst_fileData->Count-2); //while less than num of items in list
+                                     // or another FO code reached
+    }
+    Form1->Image1->Visible=true;
+
+    prnOut->EndDoc();
+    free(dev_mode); // free up DEVMODE strct
+
+    return true;
+}//printStrip
+
+
+    TCanvas *can = Image1->Canvas;
+
+    Form1->Image1->Width = 0 ;
+    Form1->Image1->Height = 0 ;
+
+    Form1->Image1->Visible=true;
+

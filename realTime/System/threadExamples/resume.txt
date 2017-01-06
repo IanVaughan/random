@@ -1,0 +1,10 @@
+Resuming thread execution
+
+
+public void resumeThread()
+{
+	if ( threadA != null ) //avoid NullPointerException
+	{
+		threadA.resume();
+	}
+}

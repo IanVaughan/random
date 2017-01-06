@@ -1,0 +1,5 @@
+Implement Runnable Interface
+-----------------------------------------
+
+This selection allows your class to be multithreaded, and still inherit from another
+class. 

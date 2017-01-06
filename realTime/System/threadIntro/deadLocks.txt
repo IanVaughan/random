@@ -1,0 +1,35 @@
+DEADLOCK
+
+
+Deadlock is a common problem when using locks to control concurrent access to data. Problems occur 
+when a thread needs to hold more than one lock at a time.
+
+
+A DEADLOCK SCENARIO
+
+Imagine a situation where threadA is holding it's lock on lock1, threadB comes along and gets exclusive 
+access to lock2. Next, while threadA still holds lock1, it tries to acquire lock2. Because threadB currently 
+holds lock2, threadA blocks waiting for threadB to release it. So far this is not a dangerous situation 
+because when threadB releases lock2, threadA will unblock, acquire lock2, and complete it's work.
+
+A situation that will make trouble is if - while threadB is holding lock2 - it needs to acquire lock1. Now 
+threadA has exclusive access to lock1 and is trying to get exclusive access to lock2. At the same time, 
+threadB has exclusive access to lock2 and is trying to get exclusive access to lock1. Both threadA and 
+threadB will wait forever for each other to release it's lock. This situation is called deadlock.
+
+
+DEADLOCK AVOIDANCE
+
+Deadlocks can be extremely difficult to track down. Generally, most of an application will continue to run, 
+but a couple of threads could be stuck in deadlock. To make matters worse, deadlocks can hide in code 
+quite a while, waiting for a rare conditions to occur. An application can run 99 out of 100 times and only 
+deadlock when the thread scheduler happens to run the threads in a slightly different order.
+
+Below are some guidelines for eliminating the possibility of deadlock.
+
+* Hold locks for only the minimal amount of time necessary. Consider using synchronized statement blocks 
+   instead of synchronizing the whole method. 
+* Try to avoid writing code that does not need to hold more than one lock at a time. If this is unavoidable, try 
+   to make sure that threads hold the second lock for only a brief period of time.
+* Create and use one big lock instead of several small ones. Use this lock for mutual exclusion instead of 
+   the object level locks of the individual  objects.

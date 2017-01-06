@@ -1,0 +1,20 @@
+getName()
+
+public static void main(String[ ] args)
+{
+	//create a new thread
+	Thread threadA = new Thread();
+
+	//set thread name
+	threadA.setName("Thread A");
+
+	//start thread
+	threadA.start();
+
+	//print the threads name
+	System.out.println("This thread is called - " + threadA.getName() );
+}
+
+Results
+
+This thread is called - Thread A

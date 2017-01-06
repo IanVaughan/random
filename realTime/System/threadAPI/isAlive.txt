@@ -1,0 +1,11 @@
+isAlive()
+----------
+public final native boolean isAlive()
+
+Returns true if this thread is still alive,
+false otherwise. A thread is considered to be
+alive from just after it has been started until
+just after the run() method returns.
+
+Related methods: start(), run(), stop().
+For more information see thread examples

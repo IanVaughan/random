@@ -1,0 +1,7 @@
+Return Type
+-----------------
+
+Every method should have a return type, even if it is void. Select the
+required return type from the selection provided.
+
+If no selection is made, the default has been set to void.

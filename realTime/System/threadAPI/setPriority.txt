@@ -1,0 +1,11 @@
+setPriority(int) 
+---------------------------------------------
+public final void setPriority(int newPriority)
+
+Changes the thread scheduling priority of this
+thread to newPriority. If this thread's ThreadGroup
+has a maximum priority set for the group and 
+newPriority exceeds that maximum, newPriority is
+reduced to the maximum value for the group.
+
+For more information see thread examples

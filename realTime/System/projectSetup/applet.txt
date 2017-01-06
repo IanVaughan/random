@@ -1,0 +1,4 @@
+Applets
+
+Applets are programs embedded into the html documents that 
+form web pages.

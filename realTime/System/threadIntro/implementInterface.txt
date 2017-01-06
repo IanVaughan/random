@@ -1,0 +1,19 @@
+IMPLEMENT RUNNABLE INTERFACE
+
+
+When we want to create a collection of closely related classes that share some behaviours, then we should 
+use inheritance. If classes are not closely related then inheritance should not be used. The other option is to 
+implement a runnable interface. Since Java does not allow multiple inheritance there are occasions when 
+using an interface is the only possible strategy. 
+
+Advantages:
+
+* A class can both extend a superclass and implement one or more interfaces
+* Implementing an interface does not imply any close relationship between classes, unlike inheritance
+
+To write an interface class you use the keyword 'interface' instead of 'class', and the methods have no 
+definition.
+
+
+public class Aeroplane implements runnable {
+

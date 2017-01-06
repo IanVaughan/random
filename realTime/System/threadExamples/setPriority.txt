@@ -1,0 +1,21 @@
+setPriority
+
+
+public static void main(String[ ] args)
+{
+	//create a new thread
+	Thread threadA = new Thread("threadA");
+
+	//set thread priority
+	threadA.setPriority(3);
+
+	//start thread
+	threadA.start();
+
+	//print the threads priority
+	System.out.println("threadA has a priority of" + threadA.getPriority() );
+}
+
+Result
+
+threadA has a priority of 3

@@ -1,0 +1,27 @@
+--------------------Configuration: test1 - Win32 Debug--------------------
+Begining build with project "C:\My Documents\Programing Projects\classes test\test1.dsp", at root.
+Active configuration is Win32 (x86) Console Application (based on Win32 (x86) Console Application)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MLd /W3 /Gm /GX /Zi /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/test1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c "
+			"Win32 Resource Compiler" with flags "/l 0x809 /d "_DEBUG" "
+			"Browser Database Maker" with flags "/nologo /o"Debug/test1.bsc" "
+			"COFF Linker for 80x86" with flags "kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/test1.pdb" /debug /machine:I386 /out:"Debug/test1.exe" /pdbtype:sept "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "c:\windows\TEMP\RSP4386.TMP" with contents </nologo /MLd /W3 /Gm /GX /Zi /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/test1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c 
+"C:\My Documents\Programing Projects\classes test\test1.cpp"
+>
+Creating command line "cl.exe @c:\windows\TEMP\RSP4386.TMP" 
+Creating temp file "c:\windows\TEMP\RSP4387.TMP" with contents <kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/test1.pdb" /debug /machine:I386 /out:"Debug/test1.exe" /pdbtype:sept 
+".\Debug\test1.obj">
+Creating command line "link.exe @c:\windows\TEMP\RSP4387.TMP" 
+Compiling...
+test1.cpp
+C:\My Documents\Programing Projects\classes test\test1.cpp(58) : error C2723: 'dumb' : 'virtual' storage-class specifier illegal on function definition
+Error executing cl.exe.
+
+
+
+test1.exe - 1 error(s), 0 warning(s)

@@ -1,0 +1,14 @@
+setName
+
+public static void main(String[ ] args)
+{
+	//create a new thread
+	Thread threadA = new Thread();
+
+	//set thread name
+	threadA.setName("This is threadA");
+
+	//start thread
+	threadA.start();
+
+}

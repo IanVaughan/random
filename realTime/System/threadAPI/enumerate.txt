@@ -1,0 +1,8 @@
+Thread.enumerate() 
+------------------------------
+public static int enumerate(Thread[] dest)
+
+
+Collects a reference to all the threads in
+the current threads thread group. Then
+copies these references into dest.

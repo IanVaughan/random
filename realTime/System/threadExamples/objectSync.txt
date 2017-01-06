@@ -1,0 +1,40 @@
+Object based synchronization
+
+By synchronizing the object, all threads will have access to the method. Any critical information 
+within the method can be synchronized to allow access to only one thread at a time.
+
+The bank account class could be synchronized by object. More than one thread can gain access 
+to method deposit(), but only one will have access to the synchronized object block within the method.
+
+void deposit(int amount, String name) {
+	int balance;
+
+	System.out.println(name + "trying to deposit " + amount);
+
+	synchronized(this) {
+		System.out.println(name + "getting balance...");
+		balance = getBalance();
+		System.out.println(name + " gets balance = " + balance);
+		balance += amount;
+		System.out.println(name + " setting balance...");
+		setBalance(balance);
+	}
+	System.out.println(name + " set new balance = " + balance);
+}
+
+Result:
+#1  trying to deposit 1000
+#1  getting balance...
+					#2  trying to deposit 1000
+#1  balance got is 1000
+#1  setting balance...
+#1  new balance set to 2000
+					
+					#2  getting balance...
+					#2  balance got is 2000
+					#2  setting balance...
+					#2  new balance set to 3000
+***final balance is 3000
+
+The second thread is able to enter the method before the first thread has finished execution, but 
+soon gets stopped by the synchronized block.

@@ -1,0 +1,22 @@
+Creating and starting a thread
+
+
+public class TwoThreads extends Thread
+{
+	public void run()
+	{
+		System.out.println("New thread");
+	}
+
+	public static void main(String[ ] args)
+	{
+		//create a new thread
+		Thread threadA = new Thread("Thread A");
+
+		//start thread
+		threadA.start();
+	}
+}
+
+
+This thread is called - Thread A

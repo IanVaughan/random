@@ -1,0 +1,8 @@
+Extend Thread
+--------------------
+
+Through this selection, your class will inherit from class thread. It is important
+to note that realTime will not let your class inherit anything else.
+
+If you want your class to be multithreaded and still inherit from another class,
+try looking at using an runnable interface.

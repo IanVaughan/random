@@ -1,0 +1,10 @@
+Thread.interrupted()
+------------------------------
+public static boolean interrupted()
+
+
+Returns the interrupted status of the 
+thread and sets it to false.
+
+
+For more information see thread examples

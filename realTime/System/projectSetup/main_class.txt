@@ -1,0 +1,7 @@
+Enter main class name
+--------------------------------
+
+The name entered will be set as the main class name. Please ensure there
+are no spaces in your class name.
+
+The filename will be taken from the classname.

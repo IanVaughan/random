@@ -1,0 +1,36 @@
+Missed Notification
+
+notify() is used to notify a waiting thread that it can proceed. Look at the following example.
+
+
+threadA notifies threadB that it can proceed
+
+threadB is not waiting for the notification
+
+
+threadB in this example has totally missed the notification. A boolean variable is used to 
+overcome this problem.
+
+
+private Object proceedLock;
+private boolean okToProceed;
+
+public void waitToProceed() throws InterruptedException
+{
+	synchronized ( proceedLock)
+	{
+		while ( okToProceed == false )
+		{
+			proceedLock.wait();
+		}
+	}
+}
+
+public void proceed()
+{
+	synchronized ( proceedLock )
+	{
+		okToProceed = true;
+		proceedLock.notifyAll();
+	}
+}

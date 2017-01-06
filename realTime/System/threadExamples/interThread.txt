@@ -1,0 +1,21 @@
+Inter-thread communication
+
+When you have several threads running within an application, communication is very 
+important. Using synchronization, only one thread can change data at any one time. 
+But how will other threads know that data has been changed? Inter thread signalling
+is needed. There are several ways of achieving communication amongst threads.
+
+
+The Busy / Wait  method
+
+while ( getValue() != desiredValue)
+{
+	Thread.sleep(100);
+}
+
+
+In the above example there is a continuous search for the current value. The drawback 
+is that a continuous search is using up processor time. The a;ternative is to make the 
+thread sleep longer. This will reduce processor time but may take longer to inform other
+threads of any changes.
+

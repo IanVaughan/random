@@ -1,0 +1,8 @@
+volatile
+----------
+
+Volatile forces the thread to reread the variable's value from shared memory every
+time it is accessed. Likewise, a thread also is forced to change the variables value
+as soon as it happens.
+
+For more information see thread examples

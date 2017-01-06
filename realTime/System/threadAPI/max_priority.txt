@@ -1,0 +1,12 @@
+Thread.MAX_PRIORITY
+---------------------------------
+public static final int MAX_PRIORITY
+
+The highest thread scheduling priority that 
+can be passed to setPriority()for a particular 
+VM. Generally, it is 10 for an application and 6 
+for an applet. Threads running at this level might 
+hog the processor and should be designed to block 
+frequently to give other threads a chance to run.
+	
+For more information see thread examples

@@ -1,0 +1,134 @@
+[MainWindow]
+Create=1
+Visible=1
+State=2
+Left=-5
+Top=-4
+Width=1280
+Height=47
+MaxLeft=-9
+MaxTop=-6
+MaxWidth=1288
+MaxHeight=47
+ClientWidth=1280
+ClientHeight=1
+
+[PropertyInspector]
+SplitPos=84
+
+[ProjectManager]
+Create=1
+Visible=1
+State=0
+Left=2
+Top=66
+Width=217
+Height=413
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=209
+ClientHeight=386
+LargeButtons=1
+
+[HistoryLists\hiTypeCastExpression]
+Count=3
+H0=DPBasicData*
+H1=DPFormData
+H2=char*
+
+[HistoryLists\hiInspectExpression]
+Count=8
+H0=(DPBasicData*)MainForm->MapData->test->Items[0]
+H1=(DPBasicData*)dpData->test->Items[0]
+H2=(DPBasicData*)(*dataIn)->test->Items[0]
+H3=((DPBasicData*)(*dataIn))->test->Items[0]
+H4=(DPBasicData*)dpData->test->Items[2]
+H5=(DPBasicData*)dpData->test->Items[1]
+H6=(DPBasicData*)(*MainForm->MapData)->test->Items[0]
+H7=(char*)dpData->test->Items[0]
+
+[HistoryLists\hiFindError]
+Count=2
+H0=0x425a26
+H1=0x006BF81C
+
+[HistoryLists\hiBinSearch]
+Count=1
+H0=TDLL
+
+[HistoryLists\hiBinChange]
+Count=1
+H0=00000004
+
+[HistoryLists\hiBinGoto]
+Count=2
+H0=0x00000009
+H1=0x00BF3A94
+
+[Closed Projects]
+File_0=SourceModule,'C:\PROJECTS\MAPEDI~1\SOURCE\DLLs.bpg',1,1,1,1,1,0,0
+File_1=SourceModule,'C:\PROJECTS\MAPEDI~1\SOURCE\D3DEngineDLL.bpr',1,1,1,1,1,0,0
+
+[Closed Files]
+File_0=SourceModule,'C:\MYDOCU~1\_PROGR~1\TESTMS~1\MapEditorFake.h',0,1,1,91,19,0,0
+File_1=SourceModule,'C:\MYDOCU~1\_PROGR~1\TESTMS~1\DPInterface.cpp',0,1,11,12,35,0,0
+File_2=SourceModule,'C:\MYDOCU~1\_PROGR~1\TESTMS~1\DataPrepSrcFake.cpp',0,1,6,8,24,0,0
+File_3=SourceModule,'C:\MYDOCU~1\_PROGR~1\TESTMS~1\DPFormSrc.cpp',0,1,6,42,35,0,0
+File_4=SourceModule,'C:\My Documents\_Programing\TestMsgPassing\DPInterface.cpp',0,1,11,21,36,0,0
+File_5=SourceModule,'C:\My Documents\_Programing\TestMsgPassing\DPFormSrc.cpp',0,1,1,1,1,1,0
+File_6=SourceModule,'C:\My Documents\_Programing\TestMsgPassing\DataPrepSrcFake.cpp',0,1,1,1,1,1,0
+File_7=SourceModule,'C:\My Documents\_Programing\TestMsgPassing\MapEditorFake.lib',0,1,1,1,1,0,0
+File_8=SourceModule,'C:\My Documents\_Programing\TestMsgPassing\MapEditorFake.h',0,1,1,1,30,0,0
+File_9=SourceModule,'C:\My Documents\_Programing\TestMsgPassing\MapEditorSrcFake.cpp',0,1,1,1,1,0,0
+
+[Modules]
+Module0=C:\MYDOCU~1\_PROGR~1\TESTMS~1\CDLL.bpg
+Module1=C:\MYDOCU~1\_PROGR~1\TESTMS~1\MapEditorFake.bpr
+Module2=C:\MYDOCU~1\_PROGR~1\TESTMS~1\DataPrepMEFake.bpr
+Module3=C:\My Documents\_Programing\TestMsgPassing\CDLL.bpg
+Module4=C:\My Documents\_Programing\TestMsgPassing\MapEditorFake.bpr
+Module5=C:\My Documents\_Programing\TestMsgPassing\DataPrepMEFake.bpr
+Count=6
+EditWindowCount=0
+
+[C:\MYDOCU~1\_PROGR~1\TESTMS~1\CDLL.bpg]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\MYDOCU~1\_PROGR~1\TESTMS~1\MapEditorFake.bpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\MYDOCU~1\_PROGR~1\TESTMS~1\DataPrepMEFake.bpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\My Documents\_Programing\TestMsgPassing\CDLL.bpg]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\My Documents\_Programing\TestMsgPassing\MapEditorFake.bpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\My Documents\_Programing\TestMsgPassing\DataPrepMEFake.bpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=1
+Breakpoint0=0x9,1,0,'',0,1
+
+[Watches]
+Count=1
+Watch0='dpData',256,0,18,1
+

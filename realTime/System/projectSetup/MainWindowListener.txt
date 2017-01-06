@@ -1,0 +1,7 @@
+MainWindowListener
+
+A class that inherits from the WindowAdapter to provide a definition for the
+'windowClosing' method.
+
+If your system has been created using a realTime wizard, it is important that
+you create a MainWindowListener file.

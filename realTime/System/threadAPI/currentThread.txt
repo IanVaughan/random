@@ -1,0 +1,10 @@
+Thread.currentThread()
+------------------------------
+public static native Thread currentThread()
+
+
+Used to determine which thread is currently 
+executing the portion of code.
+
+For more information see thread examples
+

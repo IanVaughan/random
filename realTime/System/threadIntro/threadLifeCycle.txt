@@ -1,0 +1,57 @@
+THE THREAD LIFE CYCLE
+
+
+Every thread, after creation and before destruction, will always be in one of four states.
+
+* Newly created
+* Runnable
+* Blocked
+* Dead
+
+
+NEWLY CREATED THREADS
+
+When a thread is first created it enters the newly created state. The thread is initialized with it’s data 
+members but will not enter the runnable state until it’s start() method is called.
+
+
+RUNNABLE THREADS
+
+When a thread is in the runnable state it is ready for execution. There could be many threads in the 
+runnable state and so the Java runtime scheduler has to decide which thread to execute.
+
+The runnable state can be subdivided into two substates.
+
+* Queued state - competing with other threads for CPU cycles
+* Running state - assigned CPU cycles and is actually running
+
+The transition from the queued state to the running state is handled by the runtime scheduler. However, 
+a thread can call the yield() method to voluntarily move from the running state to a queued state.
+
+
+BLOCKED THREADS
+
+The block state is entered if one of the following occurs:
+
+* The thread itself or another thread calls the suspend() method
+* The thread calls an objects wait() method
+* The thread itself calls the sleep() method
+* The thread itself is waiting for some I/O operation to complete
+
+A thread cannot be scheduled for running unless it is in the runnable state. If a thread is in the blocked 
+state, an event needs to occur to make that transition. 
+
+* If a thread is suspended, another thread calls it’s resume() method
+* If the thread is blocked by calling an objects wait() method, the objects notify() or notifyAll() method is 
+   called
+* If a thread is put to sleep, the specified sleeping time elapses
+* If a thread is blocked on I/O, the specified I/O operation completes
+
+
+DEAD THREADS
+
+The dead state is entered when a threads stop() method is called. If a thread has not started running, 
+then the command is ignored.
+
+You can use the threads isAlive() method which will return true if the thread is in a blocked or runnable 
+state.

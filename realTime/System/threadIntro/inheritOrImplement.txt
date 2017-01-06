@@ -1,0 +1,143 @@
+Inherit Thread or Implement Interface?
+
+
+There is more than one way of creating a multithreaded application. Threads can be created through the 
+use of inheritance or by implementing an interface.
+
+
+Inheriting Class Thread
+
+Inheritance allows you to inherit all the features of class thread, and therefore gives the thread access to all 
+it's methods. The use of inheritance initially appears quite reasonable until you discover that Java does not 
+support multiple inheritance. A class would be bound to inherit from a super class thread, and nothing else.
+
+*** Inherit thread example taken from 'Introductory Java' by David Parsons ***
+
+/**
+        Hare.java
+        a subclass of Thread
+
+	From 'Introductory Java' by David Parsons
+	Letts Educational, London, 1998. p.216-217
+*/
+public class Hare extends Thread
+{
+// the constructor sets the name of the thread
+        public Hare(String name)
+	{
+		super(name);
+	}
+// the 'run' method displays the journey of the hare
+	public void run()
+	{
+		System.out.println(getName() + " has started racing");
+// a short time to get to the oak tree..
+		try
+		{
+			sleep(1000);
+		}
+		catch(InterruptedException e)
+		{
+			System.out.println("Interrupted");
+		}
+		System.out.println(getName() + " has passed the oak tree");
+// a short time to get to the top of the hill
+		try
+		{
+			sleep(1000);
+		}
+		catch(InterruptedException e)
+		{
+			System.out.println("Interrupted");
+		}
+                System.out.println(getName() + " is at the top of the hill (and has fallen asleep)");
+// falls asleep for a long time
+		try
+		{
+                        sleep(20000);
+		}
+		catch(InterruptedException e)
+		{
+			System.out.println("Interrupted");
+		}
+// gets to the end (after the tortoise, probably)
+		System.out.println(getName() + " has finished!");
+	}
+}
+
+/**
+        RacingTortoise.java
+        a subclass of Thread
+
+	From 'Introductory Java' by David Parsons
+	Letts Educational, London, 1998. p.217-218
+*/
+public class RacingTortoise extends Thread
+{
+        public RacingTortoise(String name)
+	{
+		super(name);
+	}
+// 'run' displays the journey of the tortoise
+	public void run()
+	{
+// slow but steady progress to the oak tree
+		System.out.println(getName() +
+			" has started racing");
+		try
+		{
+			sleep(5000);
+		}
+		catch(InterruptedException e)
+		{
+			System.out.println("Interrupted");
+		}
+		System.out.println(getName() +
+			" has passed the oak tree");
+// slow but steady progress to the top of the hill
+		try
+		{
+			sleep(5000);
+		}
+		catch(InterruptedException e)
+		{
+			System.out.println("Interrupted");
+		}
+		System.out.println(getName() +
+			" is at the top of the hill");
+// slow but steady progress to the chequered flag
+		try
+		{
+			sleep(5000);
+		}
+		catch(InterruptedException e)
+		{
+			System.out.println("Interrupted");
+		}
+		System.out.println(getName() + " has finished!");
+	}
+}
+
+/**
+        TheTortoiseAndTheHare.java
+        demonstrates two threads running concurrently
+
+	From 'Introductory Java' by David Parsons
+	Letts Educational, London, 1998. p.218
+*/
+public class TheTortoiseAndTheHare
+{
+	public static void main(String args[])
+	{
+// create two separate thread objects (a tortoise and a hare)
+		Hare racing_hare = new Hare("Hare");
+                RacingTortoise racing_tortoise =
+			new RacingTortoise("Tortoise");
+// start them both racing
+		racing_hare.start();
+		racing_tortoise.start();
+	}
+}
+
+
+

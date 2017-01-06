@@ -1,0 +1,14 @@
+FO "Ians Strip 1" 7.75 1
+LI 1 0 1 1
+LI 2 0 2 1
+LI 0 .5 7.75 .5
+CS 5 .5 14 BLUE
+NF 3 .1 8 RED
+FO "My Strip 2" 8.25 2.5
+LI 1.5 0 1.5 1.5
+LI 0 1.5 8.25 1.5
+CS 4.5 .5 12 RED
+FO "FPS PAPER STRIP" 7.5 .9
+LI 5 0 5 .9
+FO "small" 4 .2
+LI 0 0 0 0

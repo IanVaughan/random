@@ -1,0 +1,8 @@
+getName()
+---------
+public final String getName()
+
+Returns the name of the thread. 
+
+Related method: setName() 
+For more information see thread examples

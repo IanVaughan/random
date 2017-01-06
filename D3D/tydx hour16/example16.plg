@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: example16 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WINDOWS\TEMP\RSPC192.TMP" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/example16.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"i:\USERS\BOB\BOOK\HOUR16\example16\example16.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSPC192.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSPC193.TMP" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib ddraw.lib d3dim.lib winmm.lib d3dframe.lib d3dxof.lib dxguid.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/example16.pdb" /debug /machine:I386 /out:"Debug/example16.exe" /pdbtype:sept 
+.\Debug\Car.obj
+.\Debug\Cube.obj
+.\Debug\d3dmath.obj
+.\Debug\d3dtextr.obj
+.\Debug\d3dutil.obj
+.\Debug\example16.obj
+.\Debug\Helicopter.obj
+.\Debug\Obj.obj
+.\Debug\Scene.obj
+.\Debug\StdAfx.obj
+]
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSPC193.TMP"
+<h3>Output Window</h3>
+Compiling...
+example16.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+example16.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

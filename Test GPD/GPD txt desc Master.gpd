@@ -1,0 +1,61 @@
+ID Performance Num
+VT Vehicle Type
+GT Ground Type
+NM Name
+MT Min Turn Radius
+AC Acceleration
+DC Deceleration
+ED Emergency Deceleration
+SS Slow Speed
+NS Normal Speed
+MS Maximun Speed
+TP Taxi Pitch
+
+AT Airborne Vehicle Type
+VW Vortex Wake Category
+PU Engine Power up Period
+SD Engine Start Duration
+PP Takeoff Procedures Period
+CR Can Reverse
+PB Push back speed
+RI Run in Speed
+WS Wind Shear Speed
+V1 V1 Speed
+RS Rotate Speed
+TO Takeoff Speed
+RD Takeoff Roll Distance
+RT Takeoff Roll time
+WM Takeoff Weight Modifer
+FH Flare Height
+FD Flare Deceleration Speed
+LS Landing Speed
+LD Landing Speed Distance 
+SR Thrust Reverse Off Speed
+DR Thrust Reverse Deceleration Rate
+LR Landing Deceleration Rate
+RR Runway Rollout Speed
+LW Landing Weight Modifier
+RC Rate of Change of Pitch
+LF Level Flight Pitch
+NR Normal Rate of Climb Pitch
+ND Normal Rate of Descent Pitch
+EC Expedited Rate of Climb Pitch
+GP Glide Pitch
+AP Approach Pitch
+FA Flapless Approach Pitch
+LA Landing Flare Pitch
+TA Takeoff Pitch
+RO Rate of Roll
+
+MN Model Name
+PG Performance Group ref
+VL Vehicle Length
+VI Vehicle Width
+VH Vehicle Height
+VF Nose to Centre Wheel Distance
+VB Nose to Wheelbase Distance
+TB Tow Bar Length
+HT Hover Taxi Height
+AH Arrester Hook
+ES Emergency Start
+PA Pushback Acceleration

@@ -1,0 +1,9 @@
+Thead.NORM_PRIORITY
+-------------------
+
+
+Average priority. Threads running at this
+priority get a chance to run without hogging
+the processor.
+
+For more information see thread examples

@@ -1,0 +1,103 @@
+THREAD SYNCHRONISATION
+
+
+MONITORS TO SYNCHRONISE ACCESS TO DATA
+
+Java uses monitors to synchronize any access to data. There is only a single key to enter a monitor, and 
+inside are protected resources. A thread must get a key to enter the monitor. If many threads want to 
+enter the monitor at the same time, they must each fight for the key. Once the thread with the key has 
+finished using the protected resources, it must hand the key back to Java runtime.
+ 
+In order to protect data within the monitor, the keyword synchronized is used. A class, method, or an object 
+can be synchronized. 
+
+The bank account example illustrates the need for resource protection. It is possible that two threads could 
+deposit £1000 at the same time, which would result in disaster. The example shows the processor 
+time-slicing between the two threads, which in the end causes data corruption. 
+
+
+#1  trying to deposit 1000
+#1  getting balance...
+					#2  trying to deposit 1000
+					#2  getting balance...
+#1  balance got is 1000
+#1  setting balance...
+					#2  balance got is 1000
+					#2  setting balance...
+#1  new balance is to 2000
+					#2  new balance set to 2000
+***final balance is 2000
+
+
+The final balance should be 3000, but the second thread got the current balance before the first thread 
+set the new balance. The data has been corrupted !
+
+
+METHOD BASED SYNCHRONISATION
+
+Information hiding is at the heart of object oriented programming. An object should use class methods 
+to get and set data. If a thread can only gain access to data through class methods, then the data can 
+be indirectly protected through the method. Methods can be protected by preceding the method name 
+with the keyword synchronized.
+
+The bank account example could synchronize method deposit(), allowing only one thread access at a 
+time.
+
+Synchronized void deposit(int amount, String name) {
+
+Result:
+#1  trying to deposit 1000
+#1  getting balance...
+#1  balance got is 1000
+#1  setting balance...
+#1  new balance set to 2000
+					#2  trying to deposit 1000
+					#2  getting balance...
+					#2  balance got is 2000
+					#2  setting balance...
+					#2  new balance set to 3000
+
+Only one thread can access method deposit at any one time preventing data corruption.
+
+
+OBJECT BASED SYNCHRONISATION
+
+By synchronizing the object, all threads will have access to the method. Any critical information within
+the method can be synchronized to allow access to only one thread at a time.
+
+The bank account class could be synchronized by object. More than one thread can gain access to 
+method deposit(), but only one will have access to the synchronized object block within the method.
+
+void deposit(int amount, String name) {
+	int balance;
+
+	System.out.println(name + "trying to deposit " + amount);
+
+	synchronized(this) {
+		System.out.println(name + "getting balance...");
+		balance = getBalance();
+		System.out.println(name + " gets balance = " + balance);
+		balance += amount;
+		System.out.println(name + " setting balance...");
+		setBalance(balance);
+	}
+	System.out.println(name + " set new balance = " + balance);
+}
+
+
+Result:
+#1  trying to deposit 1000
+#1  getting balance...
+					#2  trying to deposit 1000
+#1  balance got is 1000
+#1  setting balance...
+#1  new balance set to 2000
+					
+					#2  getting balance...
+					#2  balance got is 2000
+					#2  setting balance...
+					#2  new balance set to 3000
+***final balance is 3000
+
+The second thread is able to enter the method before the first thread has finished execution, but soon 
+gets stopped by the synchronized block.
